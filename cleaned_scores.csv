@@ -1,0 +1,2401 @@
+consumer_id,model,score,score_date,reason_text
+C0001,FICO8,572,2025-10-05,Delinquencies in past 24 months
+C0001,VantageScore4,663,2025-10-05,Low utilization; long history
+C0002,FICO8,546,2025-10-05,Collections and recent delinquencies
+C0002,VantageScore4,729,2025-10-05,Recent inquiry; utilization moderate
+C0003,FICO8,690,2025-10-05,Collections and recent delinquencies
+C0003,VantageScore4,503,2025-10-05,Recent inquiry; utilization moderate
+C0004,FICO8,613,2025-10-05,Short history; high utilization
+C0004,VantageScore4,486,2025-10-05,Recent delinquency; new account
+C0005,FICO8,653,2025-10-05,Recent inquiry; utilization moderate
+C0005,VantageScore4,701,2025-10-05,Recent delinquency; new account
+C0006,FICO8,726,2025-10-05,Short history; high utilization
+C0006,VantageScore4,677,2025-10-05,High utilization; short history
+C0007,FICO8,765,2025-10-05,Low utilization; long history
+C0007,VantageScore4,485,2025-10-05,High utilization; short history
+C0008,FICO8,738,2025-10-05,Collections and recent delinquencies
+C0008,VantageScore4,733,2025-10-05,High utilization; short history
+C0009,FICO8,518,2025-10-05,Collections and recent delinquencies
+C0009,VantageScore4,644,2025-10-05,Recent delinquency; new account
+C0010,FICO8,649,2025-10-05,Multiple inquiries; elevated balances
+C0010,VantageScore4,505,2025-10-05,Recent delinquency; new account
+C0011,FICO8,761,2025-10-05,Delinquencies in past 24 months
+C0011,VantageScore4,686,2025-10-05,Recent delinquency; new account
+C0012,FICO8,520,2025-10-05,Collections and recent delinquencies
+C0012,VantageScore4,707,2025-10-05,Collections and recent delinquencies
+C0013,FICO8,525,2025-10-05,Collections and recent delinquencies
+C0013,VantageScore4,708,2025-10-05,Short history; high utilization
+C0014,FICO8,540,2025-10-05,Collections and recent delinquencies
+C0014,VantageScore4,489,2025-10-05,Recent inquiry; utilization moderate
+C0015,FICO8,686,2025-10-05,Delinquencies in past 24 months
+C0015,VantageScore4,498,2025-10-05,Low utilization; long history
+C0016,FICO8,526,2025-10-05,Multiple inquiries; elevated balances
+C0016,VantageScore4,740,2025-10-05,Recent delinquency; new account
+C0017,FICO8,713,2025-10-05,Short history; high utilization
+C0017,VantageScore4,666,2025-10-05,Low utilization; long history
+C0018,FICO8,594,2025-10-05,Collections and recent delinquencies
+C0018,VantageScore4,649,2025-10-05,Collections and recent delinquencies
+C0019,FICO8,666,2025-10-05,Collections and recent delinquencies
+C0019,VantageScore4,538,2025-10-05,Recent inquiry; utilization moderate
+C0020,FICO8,593,2025-10-05,Low utilization; long history
+C0020,VantageScore4,654,2025-10-05,Short history; high utilization
+C0021,FICO8,629,2025-10-05,Short history; high utilization
+C0021,VantageScore4,534,2025-10-05,Low utilization; long history
+C0022,FICO8,564,2025-10-05,Collections and recent delinquencies
+C0022,VantageScore4,551,2025-10-05,Delinquencies in past 24 months
+C0023,FICO8,534,2025-10-05,Multiple inquiries; elevated balances
+C0023,VantageScore4,792,2025-10-05,Recent delinquency; new account
+C0024,FICO8,576,2025-10-05,Recent inquiry; utilization moderate
+C0024,VantageScore4,681,2025-10-05,Recent delinquency; new account
+C0025,FICO8,714,2025-10-05,Recent delinquency; new account
+C0025,VantageScore4,653,2025-10-05,Recent inquiry; utilization moderate
+C0026,FICO8,692,2025-10-05,Low utilization; long history
+C0026,VantageScore4,781,2025-10-05,Recent inquiry; utilization moderate
+C0027,FICO8,710,2025-10-05,Collections and recent delinquencies
+C0027,VantageScore4,781,2025-10-05,High utilization; short history
+C0028,FICO8,735,2025-10-05,Low utilization; long history
+C0028,VantageScore4,751,2025-10-05,Low utilization; long history
+C0029,FICO8,763,2025-10-05,Delinquencies in past 24 months
+C0029,VantageScore4,779,2025-10-05,Collections and recent delinquencies
+C0030,FICO8,740,2025-10-05,High utilization; short history
+C0030,VantageScore4,776,2025-10-05,High utilization; short history
+C0031,FICO8,545,2025-10-05,Recent inquiry; utilization moderate
+C0031,VantageScore4,678,2025-10-05,Short history; high utilization
+C0032,FICO8,738,2025-10-05,Delinquencies in past 24 months
+C0032,VantageScore4,694,2025-10-05,Recent delinquency; new account
+C0033,FICO8,620,2025-10-05,Delinquencies in past 24 months
+C0033,VantageScore4,655,2025-10-05,Multiple inquiries; elevated balances
+C0034,FICO8,711,2025-10-05,High utilization; short history
+C0034,VantageScore4,550,2025-10-05,Delinquencies in past 24 months
+C0035,FICO8,788,2025-10-05,Multiple inquiries; elevated balances
+C0035,VantageScore4,760,2025-10-05,Short history; high utilization
+C0036,FICO8,763,2025-10-05,Recent delinquency; new account
+C0036,VantageScore4,582,2025-10-05,Recent delinquency; new account
+C0037,FICO8,799,2025-10-05,Multiple inquiries; elevated balances
+C0037,VantageScore4,656,2025-10-05,High utilization; short history
+C0038,FICO8,571,2025-10-05,Short history; high utilization
+C0038,VantageScore4,539,2025-10-05,Short history; high utilization
+C0039,FICO8,767,2025-10-05,Collections and recent delinquencies
+C0039,VantageScore4,778,2025-10-05,Delinquencies in past 24 months
+C0040,FICO8,753,2025-10-05,Multiple inquiries; elevated balances
+C0040,VantageScore4,696,2025-10-05,Low utilization; long history
+C0041,FICO8,747,2025-10-05,Recent inquiry; utilization moderate
+C0041,VantageScore4,492,2025-10-05,Delinquencies in past 24 months
+C0042,FICO8,554,2025-10-05,Low utilization; long history
+C0042,VantageScore4,508,2025-10-05,Recent delinquency; new account
+C0043,FICO8,616,2025-10-05,High utilization; short history
+C0043,VantageScore4,626,2025-10-05,Multiple inquiries; elevated balances
+C0044,FICO8,554,2025-10-05,Low utilization; long history
+C0044,VantageScore4,631,2025-10-05,Recent delinquency; new account
+C0045,FICO8,757,2025-10-05,Low utilization; long history
+C0045,VantageScore4,663,2025-10-05,Collections and recent delinquencies
+C0046,FICO8,532,2025-10-05,Recent delinquency; new account
+C0046,VantageScore4,767,2025-10-05,Delinquencies in past 24 months
+C0047,FICO8,601,2025-10-05,Multiple inquiries; elevated balances
+C0047,VantageScore4,504,2025-10-05,Delinquencies in past 24 months
+C0048,FICO8,678,2025-10-05,Delinquencies in past 24 months
+C0048,VantageScore4,640,2025-10-05,Low utilization; long history
+C0049,FICO8,486,2025-10-05,Multiple inquiries; elevated balances
+C0049,VantageScore4,583,2025-10-05,Collections and recent delinquencies
+C0050,FICO8,595,2025-10-05,Short history; high utilization
+C0050,VantageScore4,781,2025-10-05,Recent delinquency; new account
+C0051,FICO8,579,2025-10-05,Multiple inquiries; elevated balances
+C0051,VantageScore4,709,2025-10-05,High utilization; short history
+C0052,FICO8,518,2025-10-05,High utilization; short history
+C0052,VantageScore4,568,2025-10-05,Recent inquiry; utilization moderate
+C0053,FICO8,673,2025-10-05,Low utilization; long history
+C0053,VantageScore4,699,2025-10-05,Multiple inquiries; elevated balances
+C0054,FICO8,764,2025-10-05,Multiple inquiries; elevated balances
+C0054,VantageScore4,546,2025-10-05,High utilization; short history
+C0055,FICO8,779,2025-10-05,Multiple inquiries; elevated balances
+C0055,VantageScore4,482,2025-10-05,Short history; high utilization
+C0056,FICO8,718,2025-10-05,High utilization; short history
+C0056,VantageScore4,500,2025-10-05,High utilization; short history
+C0057,FICO8,645,2025-10-05,Low utilization; long history
+C0057,VantageScore4,800,2025-10-05,Multiple inquiries; elevated balances
+C0058,FICO8,731,2025-10-05,Short history; high utilization
+C0058,VantageScore4,517,2025-10-05,Short history; high utilization
+C0059,FICO8,749,2025-10-05,Recent delinquency; new account
+C0059,VantageScore4,574,2025-10-05,Recent inquiry; utilization moderate
+C0060,FICO8,738,2025-10-05,High utilization; short history
+C0060,VantageScore4,692,2025-10-05,Delinquencies in past 24 months
+C0061,FICO8,527,2025-10-05,Short history; high utilization
+C0061,VantageScore4,593,2025-10-05,Recent delinquency; new account
+C0062,FICO8,649,2025-10-05,Short history; high utilization
+C0062,VantageScore4,664,2025-10-05,Multiple inquiries; elevated balances
+C0063,FICO8,591,2025-10-05,Collections and recent delinquencies
+C0063,VantageScore4,767,2025-10-05,Low utilization; long history
+C0064,FICO8,538,2025-10-05,Short history; high utilization
+C0064,VantageScore4,708,2025-10-05,Recent delinquency; new account
+C0065,FICO8,794,2025-10-05,Recent delinquency; new account
+C0065,VantageScore4,500,2025-10-05,Short history; high utilization
+C0066,FICO8,675,2025-10-05,Recent inquiry; utilization moderate
+C0066,VantageScore4,677,2025-10-05,Multiple inquiries; elevated balances
+C0067,FICO8,756,2025-10-05,Multiple inquiries; elevated balances
+C0067,VantageScore4,492,2025-10-05,Short history; high utilization
+C0068,FICO8,743,2025-10-05,Collections and recent delinquencies
+C0068,VantageScore4,729,2025-10-05,Low utilization; long history
+C0069,FICO8,631,2025-10-05,Recent delinquency; new account
+C0069,VantageScore4,644,2025-10-05,Recent inquiry; utilization moderate
+C0070,FICO8,529,2025-10-05,High utilization; short history
+C0070,VantageScore4,755,2025-10-05,Low utilization; long history
+C0071,FICO8,800,2025-10-05,Recent inquiry; utilization moderate
+C0071,VantageScore4,587,2025-10-05,Recent delinquency; new account
+C0072,FICO8,697,2025-10-05,Recent inquiry; utilization moderate
+C0072,VantageScore4,585,2025-10-05,Delinquencies in past 24 months
+C0073,FICO8,516,2025-10-05,High utilization; short history
+C0073,VantageScore4,492,2025-10-05,Collections and recent delinquencies
+C0074,FICO8,649,2025-10-05,Low utilization; long history
+C0074,VantageScore4,524,2025-10-05,Recent inquiry; utilization moderate
+C0075,FICO8,507,2025-10-05,High utilization; short history
+C0075,VantageScore4,608,2025-10-05,Recent inquiry; utilization moderate
+C0076,FICO8,774,2025-10-05,Recent delinquency; new account
+C0076,VantageScore4,612,2025-10-05,Delinquencies in past 24 months
+C0077,FICO8,678,2025-10-05,Collections and recent delinquencies
+C0077,VantageScore4,687,2025-10-05,Delinquencies in past 24 months
+C0078,FICO8,641,2025-10-05,Low utilization; long history
+C0078,VantageScore4,679,2025-10-05,Recent inquiry; utilization moderate
+C0079,FICO8,753,2025-10-05,Low utilization; long history
+C0079,VantageScore4,796,2025-10-05,Recent inquiry; utilization moderate
+C0080,FICO8,779,2025-10-05,Low utilization; long history
+C0080,VantageScore4,517,2025-10-05,Short history; high utilization
+C0081,FICO8,737,2025-10-05,Recent inquiry; utilization moderate
+C0081,VantageScore4,628,2025-10-05,Multiple inquiries; elevated balances
+C0082,FICO8,790,2025-10-05,Recent inquiry; utilization moderate
+C0082,VantageScore4,624,2025-10-05,Collections and recent delinquencies
+C0083,FICO8,675,2025-10-05,Delinquencies in past 24 months
+C0083,VantageScore4,495,2025-10-05,Collections and recent delinquencies
+C0084,FICO8,560,2025-10-05,Recent delinquency; new account
+C0084,VantageScore4,549,2025-10-05,Delinquencies in past 24 months
+C0085,FICO8,759,2025-10-05,Multiple inquiries; elevated balances
+C0085,VantageScore4,553,2025-10-05,Multiple inquiries; elevated balances
+C0086,FICO8,671,2025-10-05,Low utilization; long history
+C0086,VantageScore4,763,2025-10-05,High utilization; short history
+C0087,FICO8,543,2025-10-05,Low utilization; long history
+C0087,VantageScore4,482,2025-10-05,Delinquencies in past 24 months
+C0088,FICO8,755,2025-10-05,Recent inquiry; utilization moderate
+C0088,VantageScore4,636,2025-10-05,Recent delinquency; new account
+C0089,FICO8,656,2025-10-05,Recent delinquency; new account
+C0089,VantageScore4,691,2025-10-05,High utilization; short history
+C0090,FICO8,562,2025-10-05,High utilization; short history
+C0090,VantageScore4,593,2025-10-05,Multiple inquiries; elevated balances
+C0091,FICO8,579,2025-10-05,Recent inquiry; utilization moderate
+C0091,VantageScore4,572,2025-10-05,Low utilization; long history
+C0092,FICO8,761,2025-10-05,Collections and recent delinquencies
+C0092,VantageScore4,761,2025-10-05,Recent inquiry; utilization moderate
+C0093,FICO8,628,2025-10-05,Recent inquiry; utilization moderate
+C0093,VantageScore4,608,2025-10-05,Recent inquiry; utilization moderate
+C0094,FICO8,581,2025-10-05,Collections and recent delinquencies
+C0094,VantageScore4,649,2025-10-05,Short history; high utilization
+C0095,FICO8,545,2025-10-05,Recent delinquency; new account
+C0095,VantageScore4,531,2025-10-05,Multiple inquiries; elevated balances
+C0096,FICO8,797,2025-10-05,Recent inquiry; utilization moderate
+C0096,VantageScore4,579,2025-10-05,Short history; high utilization
+C0097,FICO8,728,2025-10-05,Collections and recent delinquencies
+C0097,VantageScore4,648,2025-10-05,Multiple inquiries; elevated balances
+C0098,FICO8,779,2025-10-05,High utilization; short history
+C0098,VantageScore4,769,2025-10-05,Short history; high utilization
+C0099,FICO8,641,2025-10-05,Delinquencies in past 24 months
+C0099,VantageScore4,566,2025-10-05,Low utilization; long history
+C0100,FICO8,640,2025-10-05,Recent delinquency; new account
+C0100,VantageScore4,593,2025-10-05,Delinquencies in past 24 months
+C0101,FICO8,621,2025-10-05,Short history; high utilization
+C0101,VantageScore4,548,2025-10-05,Short history; high utilization
+C0102,FICO8,725,2025-10-05,Collections and recent delinquencies
+C0102,VantageScore4,708,2025-10-05,Short history; high utilization
+C0103,FICO8,636,2025-10-05,Collections and recent delinquencies
+C0103,VantageScore4,762,2025-10-05,Recent inquiry; utilization moderate
+C0104,FICO8,569,2025-10-05,Recent inquiry; utilization moderate
+C0104,VantageScore4,623,2025-10-05,High utilization; short history
+C0105,FICO8,755,2025-10-05,Recent delinquency; new account
+C0105,VantageScore4,614,2025-10-05,Recent inquiry; utilization moderate
+C0106,FICO8,518,2025-10-05,Low utilization; long history
+C0106,VantageScore4,739,2025-10-05,Low utilization; long history
+C0107,FICO8,777,2025-10-05,Delinquencies in past 24 months
+C0107,VantageScore4,782,2025-10-05,Recent delinquency; new account
+C0108,FICO8,498,2025-10-05,Multiple inquiries; elevated balances
+C0108,VantageScore4,758,2025-10-05,Collections and recent delinquencies
+C0109,FICO8,556,2025-10-05,Short history; high utilization
+C0109,VantageScore4,680,2025-10-05,Recent delinquency; new account
+C0110,FICO8,781,2025-10-05,Multiple inquiries; elevated balances
+C0110,VantageScore4,548,2025-10-05,Collections and recent delinquencies
+C0111,FICO8,736,2025-10-05,Recent inquiry; utilization moderate
+C0111,VantageScore4,683,2025-10-05,Short history; high utilization
+C0112,FICO8,737,2025-10-05,Low utilization; long history
+C0112,VantageScore4,602,2025-10-05,High utilization; short history
+C0113,FICO8,743,2025-10-05,High utilization; short history
+C0113,VantageScore4,708,2025-10-05,High utilization; short history
+C0114,FICO8,571,2025-10-05,High utilization; short history
+C0114,VantageScore4,727,2025-10-05,Short history; high utilization
+C0115,FICO8,500,2025-10-05,Recent delinquency; new account
+C0115,VantageScore4,729,2025-10-05,Recent delinquency; new account
+C0116,FICO8,512,2025-10-05,Multiple inquiries; elevated balances
+C0116,VantageScore4,669,2025-10-05,Recent delinquency; new account
+C0117,FICO8,501,2025-10-05,Recent delinquency; new account
+C0117,VantageScore4,745,2025-10-05,Short history; high utilization
+C0118,FICO8,678,2025-10-05,Collections and recent delinquencies
+C0118,VantageScore4,712,2025-10-05,Low utilization; long history
+C0119,FICO8,500,2025-10-05,Short history; high utilization
+C0119,VantageScore4,532,2025-10-05,Multiple inquiries; elevated balances
+C0120,FICO8,614,2025-10-05,High utilization; short history
+C0120,VantageScore4,672,2025-10-05,Delinquencies in past 24 months
+C0121,FICO8,667,2025-10-05,Recent inquiry; utilization moderate
+C0121,VantageScore4,744,2025-10-05,Multiple inquiries; elevated balances
+C0122,FICO8,672,2025-10-05,Recent delinquency; new account
+C0122,VantageScore4,744,2025-10-05,Delinquencies in past 24 months
+C0123,FICO8,660,2025-10-05,Short history; high utilization
+C0123,VantageScore4,729,2025-10-05,Collections and recent delinquencies
+C0124,FICO8,789,2025-10-05,Low utilization; long history
+C0124,VantageScore4,736,2025-10-05,High utilization; short history
+C0125,FICO8,705,2025-10-05,High utilization; short history
+C0125,VantageScore4,597,2025-10-05,Recent inquiry; utilization moderate
+C0126,FICO8,743,2025-10-05,Multiple inquiries; elevated balances
+C0126,VantageScore4,588,2025-10-05,High utilization; short history
+C0127,FICO8,575,2025-10-05,High utilization; short history
+C0127,VantageScore4,665,2025-10-05,Recent inquiry; utilization moderate
+C0128,FICO8,597,2025-10-05,Delinquencies in past 24 months
+C0128,VantageScore4,649,2025-10-05,Recent inquiry; utilization moderate
+C0129,FICO8,726,2025-10-05,Collections and recent delinquencies
+C0129,VantageScore4,725,2025-10-05,Recent delinquency; new account
+C0130,FICO8,782,2025-10-05,High utilization; short history
+C0130,VantageScore4,690,2025-10-05,Low utilization; long history
+C0131,FICO8,604,2025-10-05,Low utilization; long history
+C0131,VantageScore4,545,2025-10-05,High utilization; short history
+C0132,FICO8,548,2025-10-05,Low utilization; long history
+C0132,VantageScore4,773,2025-10-05,High utilization; short history
+C0133,FICO8,508,2025-10-05,High utilization; short history
+C0133,VantageScore4,612,2025-10-05,High utilization; short history
+C0134,FICO8,744,2025-10-05,Delinquencies in past 24 months
+C0134,VantageScore4,786,2025-10-05,Low utilization; long history
+C0135,FICO8,625,2025-10-05,Recent inquiry; utilization moderate
+C0135,VantageScore4,590,2025-10-05,Collections and recent delinquencies
+C0136,FICO8,790,2025-10-05,Collections and recent delinquencies
+C0136,VantageScore4,726,2025-10-05,High utilization; short history
+C0137,FICO8,592,2025-10-05,Delinquencies in past 24 months
+C0137,VantageScore4,787,2025-10-05,High utilization; short history
+C0138,FICO8,778,2025-10-05,High utilization; short history
+C0138,VantageScore4,799,2025-10-05,Multiple inquiries; elevated balances
+C0139,FICO8,565,2025-10-05,Short history; high utilization
+C0139,VantageScore4,712,2025-10-05,Recent inquiry; utilization moderate
+C0140,FICO8,597,2025-10-05,Delinquencies in past 24 months
+C0140,VantageScore4,677,2025-10-05,High utilization; short history
+C0141,FICO8,535,2025-10-05,Low utilization; long history
+C0141,VantageScore4,583,2025-10-05,Delinquencies in past 24 months
+C0142,FICO8,556,2025-10-05,Recent inquiry; utilization moderate
+C0142,VantageScore4,570,2025-10-05,Collections and recent delinquencies
+C0143,FICO8,794,2025-10-05,Low utilization; long history
+C0143,VantageScore4,752,2025-10-05,Recent inquiry; utilization moderate
+C0144,FICO8,527,2025-10-05,Collections and recent delinquencies
+C0144,VantageScore4,546,2025-10-05,Low utilization; long history
+C0145,FICO8,700,2025-10-05,Delinquencies in past 24 months
+C0145,VantageScore4,669,2025-10-05,Low utilization; long history
+C0146,FICO8,751,2025-10-05,Delinquencies in past 24 months
+C0146,VantageScore4,597,2025-10-05,Collections and recent delinquencies
+C0147,FICO8,675,2025-10-05,Short history; high utilization
+C0147,VantageScore4,781,2025-10-05,Recent inquiry; utilization moderate
+C0148,FICO8,697,2025-10-05,High utilization; short history
+C0148,VantageScore4,610,2025-10-05,Collections and recent delinquencies
+C0149,FICO8,599,2025-10-05,Recent inquiry; utilization moderate
+C0149,VantageScore4,625,2025-10-05,Delinquencies in past 24 months
+C0150,FICO8,611,2025-10-05,Recent delinquency; new account
+C0150,VantageScore4,482,2025-10-05,Low utilization; long history
+C0151,FICO8,775,2025-10-05,Recent inquiry; utilization moderate
+C0151,VantageScore4,746,2025-10-05,Low utilization; long history
+C0152,FICO8,672,2025-10-05,Recent delinquency; new account
+C0152,VantageScore4,641,2025-10-05,Delinquencies in past 24 months
+C0153,FICO8,665,2025-10-05,Recent inquiry; utilization moderate
+C0153,VantageScore4,559,2025-10-05,Delinquencies in past 24 months
+C0154,FICO8,779,2025-10-05,Multiple inquiries; elevated balances
+C0154,VantageScore4,613,2025-10-05,Delinquencies in past 24 months
+C0155,FICO8,769,2025-10-05,Short history; high utilization
+C0155,VantageScore4,793,2025-10-05,Multiple inquiries; elevated balances
+C0156,FICO8,683,2025-10-05,Recent delinquency; new account
+C0156,VantageScore4,691,2025-10-05,Collections and recent delinquencies
+C0157,FICO8,571,2025-10-05,Short history; high utilization
+C0157,VantageScore4,766,2025-10-05,Collections and recent delinquencies
+C0158,FICO8,609,2025-10-05,Multiple inquiries; elevated balances
+C0158,VantageScore4,775,2025-10-05,Short history; high utilization
+C0159,FICO8,683,2025-10-05,High utilization; short history
+C0159,VantageScore4,540,2025-10-05,Recent delinquency; new account
+C0160,FICO8,708,2025-10-05,High utilization; short history
+C0160,VantageScore4,531,2025-10-05,Recent delinquency; new account
+C0161,FICO8,740,2025-10-05,Delinquencies in past 24 months
+C0161,VantageScore4,653,2025-10-05,Low utilization; long history
+C0162,FICO8,562,2025-10-05,Delinquencies in past 24 months
+C0162,VantageScore4,482,2025-10-05,Recent inquiry; utilization moderate
+C0163,FICO8,554,2025-10-05,Collections and recent delinquencies
+C0163,VantageScore4,787,2025-10-05,Delinquencies in past 24 months
+C0164,FICO8,525,2025-10-05,Recent inquiry; utilization moderate
+C0164,VantageScore4,614,2025-10-05,Recent delinquency; new account
+C0165,FICO8,669,2025-10-05,Recent inquiry; utilization moderate
+C0165,VantageScore4,791,2025-10-05,Low utilization; long history
+C0166,FICO8,676,2025-10-05,Delinquencies in past 24 months
+C0166,VantageScore4,794,2025-10-05,Multiple inquiries; elevated balances
+C0167,FICO8,785,2025-10-05,Low utilization; long history
+C0167,VantageScore4,569,2025-10-05,Collections and recent delinquencies
+C0168,FICO8,704,2025-10-05,Low utilization; long history
+C0168,VantageScore4,583,2025-10-05,Multiple inquiries; elevated balances
+C0169,FICO8,579,2025-10-05,Low utilization; long history
+C0169,VantageScore4,786,2025-10-05,Recent delinquency; new account
+C0170,FICO8,794,2025-10-05,High utilization; short history
+C0170,VantageScore4,498,2025-10-05,Short history; high utilization
+C0171,FICO8,602,2025-10-05,Low utilization; long history
+C0171,VantageScore4,560,2025-10-05,Recent inquiry; utilization moderate
+C0172,FICO8,621,2025-10-05,Delinquencies in past 24 months
+C0172,VantageScore4,660,2025-10-05,Delinquencies in past 24 months
+C0173,FICO8,687,2025-10-05,Recent delinquency; new account
+C0173,VantageScore4,745,2025-10-05,Low utilization; long history
+C0174,FICO8,515,2025-10-05,Recent inquiry; utilization moderate
+C0174,VantageScore4,761,2025-10-05,Multiple inquiries; elevated balances
+C0175,FICO8,766,2025-10-05,Short history; high utilization
+C0175,VantageScore4,657,2025-10-05,Multiple inquiries; elevated balances
+C0176,FICO8,595,2025-10-05,Recent delinquency; new account
+C0176,VantageScore4,712,2025-10-05,Delinquencies in past 24 months
+C0177,FICO8,774,2025-10-05,Low utilization; long history
+C0177,VantageScore4,613,2025-10-05,High utilization; short history
+C0178,FICO8,688,2025-10-05,Recent inquiry; utilization moderate
+C0178,VantageScore4,766,2025-10-05,Recent inquiry; utilization moderate
+C0179,FICO8,737,2025-10-05,Multiple inquiries; elevated balances
+C0179,VantageScore4,654,2025-10-05,Recent inquiry; utilization moderate
+C0180,FICO8,742,2025-10-05,Multiple inquiries; elevated balances
+C0180,VantageScore4,755,2025-10-05,Multiple inquiries; elevated balances
+C0181,FICO8,706,2025-10-05,Delinquencies in past 24 months
+C0181,VantageScore4,768,2025-10-05,Collections and recent delinquencies
+C0182,FICO8,604,2025-10-05,Short history; high utilization
+C0182,VantageScore4,714,2025-10-05,Collections and recent delinquencies
+C0183,FICO8,780,2025-10-05,Low utilization; long history
+C0183,VantageScore4,726,2025-10-05,Recent inquiry; utilization moderate
+C0184,FICO8,612,2025-10-05,Recent inquiry; utilization moderate
+C0184,VantageScore4,675,2025-10-05,Recent delinquency; new account
+C0185,FICO8,597,2025-10-05,Short history; high utilization
+C0185,VantageScore4,691,2025-10-05,Short history; high utilization
+C0186,FICO8,744,2025-10-05,Low utilization; long history
+C0186,VantageScore4,614,2025-10-05,Recent delinquency; new account
+C0187,FICO8,627,2025-10-05,Recent inquiry; utilization moderate
+C0187,VantageScore4,684,2025-10-05,Short history; high utilization
+C0188,FICO8,518,2025-10-05,High utilization; short history
+C0188,VantageScore4,723,2025-10-05,Short history; high utilization
+C0189,FICO8,661,2025-10-05,Recent delinquency; new account
+C0189,VantageScore4,773,2025-10-05,Multiple inquiries; elevated balances
+C0190,FICO8,573,2025-10-05,Recent delinquency; new account
+C0190,VantageScore4,735,2025-10-05,Recent delinquency; new account
+C0191,FICO8,600,2025-10-05,Recent delinquency; new account
+C0191,VantageScore4,615,2025-10-05,Recent delinquency; new account
+C0192,FICO8,597,2025-10-05,Recent delinquency; new account
+C0192,VantageScore4,607,2025-10-05,Short history; high utilization
+C0193,FICO8,559,2025-10-05,Recent inquiry; utilization moderate
+C0193,VantageScore4,541,2025-10-05,Recent inquiry; utilization moderate
+C0194,FICO8,732,2025-10-05,Low utilization; long history
+C0194,VantageScore4,757,2025-10-05,Low utilization; long history
+C0195,FICO8,726,2025-10-05,Short history; high utilization
+C0195,VantageScore4,797,2025-10-05,Short history; high utilization
+C0196,FICO8,732,2025-10-05,Multiple inquiries; elevated balances
+C0196,VantageScore4,731,2025-10-05,High utilization; short history
+C0197,FICO8,741,2025-10-05,Multiple inquiries; elevated balances
+C0197,VantageScore4,683,2025-10-05,Recent delinquency; new account
+C0198,FICO8,775,2025-10-05,High utilization; short history
+C0198,VantageScore4,507,2025-10-05,Delinquencies in past 24 months
+C0199,FICO8,724,2025-10-05,Low utilization; long history
+C0199,VantageScore4,737,2025-10-05,Short history; high utilization
+C0200,FICO8,681,2025-10-05,High utilization; short history
+C0200,VantageScore4,714,2025-10-05,Recent inquiry; utilization moderate
+C0201,FICO8,745,2025-10-05,Collections and recent delinquencies
+C0201,VantageScore4,641,2025-10-05,Low utilization; long history
+C0202,FICO8,486,2025-10-05,Recent delinquency; new account
+C0202,VantageScore4,674,2025-10-05,Recent inquiry; utilization moderate
+C0203,FICO8,646,2025-10-05,Short history; high utilization
+C0203,VantageScore4,793,2025-10-05,Multiple inquiries; elevated balances
+C0204,FICO8,575,2025-10-05,Multiple inquiries; elevated balances
+C0204,VantageScore4,601,2025-10-05,Multiple inquiries; elevated balances
+C0205,FICO8,721,2025-10-05,Short history; high utilization
+C0205,VantageScore4,667,2025-10-05,High utilization; short history
+C0206,FICO8,735,2025-10-05,Delinquencies in past 24 months
+C0206,VantageScore4,587,2025-10-05,Delinquencies in past 24 months
+C0207,FICO8,670,2025-10-05,Short history; high utilization
+C0207,VantageScore4,685,2025-10-05,Multiple inquiries; elevated balances
+C0208,FICO8,710,2025-10-05,High utilization; short history
+C0208,VantageScore4,772,2025-10-05,High utilization; short history
+C0209,FICO8,774,2025-10-05,Recent delinquency; new account
+C0209,VantageScore4,531,2025-10-05,Multiple inquiries; elevated balances
+C0210,FICO8,600,2025-10-05,Delinquencies in past 24 months
+C0210,VantageScore4,675,2025-10-05,Recent delinquency; new account
+C0211,FICO8,554,2025-10-05,High utilization; short history
+C0211,VantageScore4,722,2025-10-05,Low utilization; long history
+C0212,FICO8,570,2025-10-05,Delinquencies in past 24 months
+C0212,VantageScore4,735,2025-10-05,High utilization; short history
+C0213,FICO8,744,2025-10-05,Short history; high utilization
+C0213,VantageScore4,729,2025-10-05,Multiple inquiries; elevated balances
+C0214,FICO8,608,2025-10-05,Low utilization; long history
+C0214,VantageScore4,683,2025-10-05,Recent inquiry; utilization moderate
+C0215,FICO8,563,2025-10-05,Low utilization; long history
+C0215,VantageScore4,590,2025-10-05,Multiple inquiries; elevated balances
+C0216,FICO8,723,2025-10-05,Recent inquiry; utilization moderate
+C0216,VantageScore4,710,2025-10-05,Short history; high utilization
+C0217,FICO8,613,2025-10-05,Short history; high utilization
+C0217,VantageScore4,664,2025-10-05,Multiple inquiries; elevated balances
+C0218,FICO8,656,2025-10-05,Low utilization; long history
+C0218,VantageScore4,690,2025-10-05,Recent inquiry; utilization moderate
+C0219,FICO8,659,2025-10-05,Recent delinquency; new account
+C0219,VantageScore4,775,2025-10-05,High utilization; short history
+C0220,FICO8,625,2025-10-05,Short history; high utilization
+C0220,VantageScore4,646,2025-10-05,Collections and recent delinquencies
+C0221,FICO8,708,2025-10-05,Recent inquiry; utilization moderate
+C0221,VantageScore4,675,2025-10-05,Multiple inquiries; elevated balances
+C0222,FICO8,717,2025-10-05,High utilization; short history
+C0222,VantageScore4,565,2025-10-05,Short history; high utilization
+C0223,FICO8,695,2025-10-05,Delinquencies in past 24 months
+C0223,VantageScore4,516,2025-10-05,Recent inquiry; utilization moderate
+C0224,FICO8,562,2025-10-05,Short history; high utilization
+C0224,VantageScore4,596,2025-10-05,Short history; high utilization
+C0225,FICO8,642,2025-10-05,Multiple inquiries; elevated balances
+C0225,VantageScore4,616,2025-10-05,Delinquencies in past 24 months
+C0226,FICO8,618,2025-10-05,Collections and recent delinquencies
+C0226,VantageScore4,665,2025-10-05,Collections and recent delinquencies
+C0227,FICO8,691,2025-10-05,High utilization; short history
+C0227,VantageScore4,574,2025-10-05,Low utilization; long history
+C0228,FICO8,544,2025-10-05,Recent delinquency; new account
+C0228,VantageScore4,608,2025-10-05,Recent inquiry; utilization moderate
+C0229,FICO8,587,2025-10-05,High utilization; short history
+C0229,VantageScore4,683,2025-10-05,Recent inquiry; utilization moderate
+C0230,FICO8,528,2025-10-05,Recent inquiry; utilization moderate
+C0230,VantageScore4,722,2025-10-05,Low utilization; long history
+C0231,FICO8,493,2025-10-05,Delinquencies in past 24 months
+C0231,VantageScore4,748,2025-10-05,Recent inquiry; utilization moderate
+C0232,FICO8,533,2025-10-05,Multiple inquiries; elevated balances
+C0232,VantageScore4,796,2025-10-05,High utilization; short history
+C0233,FICO8,523,2025-10-05,Delinquencies in past 24 months
+C0233,VantageScore4,638,2025-10-05,Recent delinquency; new account
+C0234,FICO8,606,2025-10-05,Multiple inquiries; elevated balances
+C0234,VantageScore4,706,2025-10-05,High utilization; short history
+C0235,FICO8,547,2025-10-05,High utilization; short history
+C0235,VantageScore4,494,2025-10-05,Low utilization; long history
+C0236,FICO8,662,2025-10-05,Short history; high utilization
+C0236,VantageScore4,723,2025-10-05,Collections and recent delinquencies
+C0237,FICO8,756,2025-10-05,Multiple inquiries; elevated balances
+C0237,VantageScore4,760,2025-10-05,Collections and recent delinquencies
+C0238,FICO8,549,2025-10-05,High utilization; short history
+C0238,VantageScore4,782,2025-10-05,Collections and recent delinquencies
+C0239,FICO8,768,2025-10-05,Delinquencies in past 24 months
+C0239,VantageScore4,748,2025-10-05,Multiple inquiries; elevated balances
+C0240,FICO8,657,2025-10-05,Collections and recent delinquencies
+C0240,VantageScore4,756,2025-10-05,Recent delinquency; new account
+C0241,FICO8,525,2025-10-05,Collections and recent delinquencies
+C0241,VantageScore4,637,2025-10-05,Short history; high utilization
+C0242,FICO8,691,2025-10-05,Multiple inquiries; elevated balances
+C0242,VantageScore4,559,2025-10-05,Multiple inquiries; elevated balances
+C0243,FICO8,485,2025-10-05,Low utilization; long history
+C0243,VantageScore4,747,2025-10-05,High utilization; short history
+C0244,FICO8,656,2025-10-05,Multiple inquiries; elevated balances
+C0244,VantageScore4,720,2025-10-05,Low utilization; long history
+C0245,FICO8,731,2025-10-05,Collections and recent delinquencies
+C0245,VantageScore4,633,2025-10-05,Low utilization; long history
+C0246,FICO8,700,2025-10-05,Multiple inquiries; elevated balances
+C0246,VantageScore4,785,2025-10-05,Recent delinquency; new account
+C0247,FICO8,483,2025-10-05,Short history; high utilization
+C0247,VantageScore4,576,2025-10-05,Delinquencies in past 24 months
+C0248,FICO8,767,2025-10-05,Delinquencies in past 24 months
+C0248,VantageScore4,682,2025-10-05,Recent delinquency; new account
+C0249,FICO8,563,2025-10-05,Delinquencies in past 24 months
+C0249,VantageScore4,673,2025-10-05,Recent delinquency; new account
+C0250,FICO8,614,2025-10-05,Recent inquiry; utilization moderate
+C0250,VantageScore4,696,2025-10-05,Recent delinquency; new account
+C0251,FICO8,744,2025-10-05,Multiple inquiries; elevated balances
+C0251,VantageScore4,625,2025-10-05,Multiple inquiries; elevated balances
+C0252,FICO8,691,2025-10-05,Recent delinquency; new account
+C0252,VantageScore4,515,2025-10-05,High utilization; short history
+C0253,FICO8,549,2025-10-05,Multiple inquiries; elevated balances
+C0253,VantageScore4,536,2025-10-05,Collections and recent delinquencies
+C0254,FICO8,796,2025-10-05,Collections and recent delinquencies
+C0254,VantageScore4,619,2025-10-05,Collections and recent delinquencies
+C0255,FICO8,576,2025-10-05,Short history; high utilization
+C0255,VantageScore4,489,2025-10-05,High utilization; short history
+C0256,FICO8,505,2025-10-05,Low utilization; long history
+C0256,VantageScore4,575,2025-10-05,Recent inquiry; utilization moderate
+C0257,FICO8,624,2025-10-05,Multiple inquiries; elevated balances
+C0257,VantageScore4,544,2025-10-05,Collections and recent delinquencies
+C0258,FICO8,484,2025-10-05,Recent delinquency; new account
+C0258,VantageScore4,526,2025-10-05,High utilization; short history
+C0259,FICO8,487,2025-10-05,Collections and recent delinquencies
+C0259,VantageScore4,591,2025-10-05,Short history; high utilization
+C0260,FICO8,695,2025-10-05,Multiple inquiries; elevated balances
+C0260,VantageScore4,735,2025-10-05,Short history; high utilization
+C0261,FICO8,717,2025-10-05,Low utilization; long history
+C0261,VantageScore4,649,2025-10-05,Recent inquiry; utilization moderate
+C0262,FICO8,554,2025-10-05,Low utilization; long history
+C0262,VantageScore4,616,2025-10-05,Delinquencies in past 24 months
+C0263,FICO8,516,2025-10-05,Collections and recent delinquencies
+C0263,VantageScore4,572,2025-10-05,Recent delinquency; new account
+C0264,FICO8,608,2025-10-05,Delinquencies in past 24 months
+C0264,VantageScore4,486,2025-10-05,Recent inquiry; utilization moderate
+C0265,FICO8,607,2025-10-05,Delinquencies in past 24 months
+C0265,VantageScore4,706,2025-10-05,Recent delinquency; new account
+C0266,FICO8,497,2025-10-05,Recent delinquency; new account
+C0266,VantageScore4,715,2025-10-05,Recent inquiry; utilization moderate
+C0267,FICO8,746,2025-10-05,Recent delinquency; new account
+C0267,VantageScore4,722,2025-10-05,Delinquencies in past 24 months
+C0268,FICO8,639,2025-10-05,Short history; high utilization
+C0268,VantageScore4,561,2025-10-05,Low utilization; long history
+C0269,FICO8,761,2025-10-05,Recent inquiry; utilization moderate
+C0269,VantageScore4,609,2025-10-05,Collections and recent delinquencies
+C0270,FICO8,632,2025-10-05,Recent delinquency; new account
+C0270,VantageScore4,664,2025-10-05,Low utilization; long history
+C0271,FICO8,591,2025-10-05,Recent inquiry; utilization moderate
+C0271,VantageScore4,600,2025-10-05,Delinquencies in past 24 months
+C0272,FICO8,646,2025-10-05,Low utilization; long history
+C0272,VantageScore4,565,2025-10-05,Multiple inquiries; elevated balances
+C0273,FICO8,779,2025-10-05,Recent inquiry; utilization moderate
+C0273,VantageScore4,682,2025-10-05,Recent delinquency; new account
+C0274,FICO8,484,2025-10-05,Low utilization; long history
+C0274,VantageScore4,777,2025-10-05,Collections and recent delinquencies
+C0275,FICO8,785,2025-10-05,High utilization; short history
+C0275,VantageScore4,670,2025-10-05,Recent inquiry; utilization moderate
+C0276,FICO8,607,2025-10-05,High utilization; short history
+C0276,VantageScore4,735,2025-10-05,Recent inquiry; utilization moderate
+C0277,FICO8,796,2025-10-05,Short history; high utilization
+C0277,VantageScore4,800,2025-10-05,Low utilization; long history
+C0278,FICO8,510,2025-10-05,Short history; high utilization
+C0278,VantageScore4,558,2025-10-05,Recent inquiry; utilization moderate
+C0279,FICO8,544,2025-10-05,Collections and recent delinquencies
+C0279,VantageScore4,599,2025-10-05,Short history; high utilization
+C0280,FICO8,765,2025-10-05,Short history; high utilization
+C0280,VantageScore4,704,2025-10-05,Recent delinquency; new account
+C0281,FICO8,490,2025-10-05,Delinquencies in past 24 months
+C0281,VantageScore4,663,2025-10-05,High utilization; short history
+C0282,FICO8,608,2025-10-05,Low utilization; long history
+C0282,VantageScore4,728,2025-10-05,Collections and recent delinquencies
+C0283,FICO8,766,2025-10-05,Multiple inquiries; elevated balances
+C0283,VantageScore4,757,2025-10-05,Collections and recent delinquencies
+C0284,FICO8,577,2025-10-05,High utilization; short history
+C0284,VantageScore4,758,2025-10-05,Short history; high utilization
+C0285,FICO8,645,2025-10-05,Collections and recent delinquencies
+C0285,VantageScore4,620,2025-10-05,High utilization; short history
+C0286,FICO8,515,2025-10-05,High utilization; short history
+C0286,VantageScore4,710,2025-10-05,Multiple inquiries; elevated balances
+C0287,FICO8,614,2025-10-05,Short history; high utilization
+C0287,VantageScore4,712,2025-10-05,Low utilization; long history
+C0288,FICO8,739,2025-10-05,Delinquencies in past 24 months
+C0288,VantageScore4,574,2025-10-05,Low utilization; long history
+C0289,FICO8,797,2025-10-05,Short history; high utilization
+C0289,VantageScore4,797,2025-10-05,Recent delinquency; new account
+C0290,FICO8,644,2025-10-05,Recent inquiry; utilization moderate
+C0290,VantageScore4,755,2025-10-05,Delinquencies in past 24 months
+C0291,FICO8,577,2025-10-05,Collections and recent delinquencies
+C0291,VantageScore4,762,2025-10-05,High utilization; short history
+C0292,FICO8,793,2025-10-05,Multiple inquiries; elevated balances
+C0292,VantageScore4,645,2025-10-05,Delinquencies in past 24 months
+C0293,FICO8,644,2025-10-05,Recent inquiry; utilization moderate
+C0293,VantageScore4,529,2025-10-05,Recent inquiry; utilization moderate
+C0294,FICO8,502,2025-10-05,High utilization; short history
+C0294,VantageScore4,571,2025-10-05,Low utilization; long history
+C0295,FICO8,583,2025-10-05,Recent inquiry; utilization moderate
+C0295,VantageScore4,728,2025-10-05,Recent delinquency; new account
+C0296,FICO8,530,2025-10-05,Low utilization; long history
+C0296,VantageScore4,772,2025-10-05,Delinquencies in past 24 months
+C0297,FICO8,730,2025-10-05,Multiple inquiries; elevated balances
+C0297,VantageScore4,505,2025-10-05,Short history; high utilization
+C0298,FICO8,593,2025-10-05,Recent inquiry; utilization moderate
+C0298,VantageScore4,486,2025-10-05,Recent delinquency; new account
+C0299,FICO8,731,2025-10-05,Recent inquiry; utilization moderate
+C0299,VantageScore4,719,2025-10-05,Low utilization; long history
+C0300,FICO8,664,2025-10-05,Delinquencies in past 24 months
+C0300,VantageScore4,668,2025-10-05,Low utilization; long history
+C0301,FICO8,795,2025-10-05,Multiple inquiries; elevated balances
+C0301,VantageScore4,750,2025-10-05,Low utilization; long history
+C0302,FICO8,516,2025-10-05,Multiple inquiries; elevated balances
+C0302,VantageScore4,519,2025-10-05,Recent delinquency; new account
+C0303,FICO8,745,2025-10-05,Recent inquiry; utilization moderate
+C0303,VantageScore4,531,2025-10-05,Recent delinquency; new account
+C0304,FICO8,752,2025-10-05,Delinquencies in past 24 months
+C0304,VantageScore4,577,2025-10-05,Recent delinquency; new account
+C0305,FICO8,749,2025-10-05,Recent delinquency; new account
+C0305,VantageScore4,771,2025-10-05,High utilization; short history
+C0306,FICO8,765,2025-10-05,Delinquencies in past 24 months
+C0306,VantageScore4,534,2025-10-05,Short history; high utilization
+C0307,FICO8,714,2025-10-05,Delinquencies in past 24 months
+C0307,VantageScore4,533,2025-10-05,High utilization; short history
+C0308,FICO8,572,2025-10-05,Delinquencies in past 24 months
+C0308,VantageScore4,738,2025-10-05,Short history; high utilization
+C0309,FICO8,560,2025-10-05,Collections and recent delinquencies
+C0309,VantageScore4,660,2025-10-05,Short history; high utilization
+C0310,FICO8,761,2025-10-05,Short history; high utilization
+C0310,VantageScore4,670,2025-10-05,Delinquencies in past 24 months
+C0311,FICO8,700,2025-10-05,Short history; high utilization
+C0311,VantageScore4,791,2025-10-05,Recent delinquency; new account
+C0312,FICO8,768,2025-10-05,Recent delinquency; new account
+C0312,VantageScore4,672,2025-10-05,Multiple inquiries; elevated balances
+C0313,FICO8,664,2025-10-05,Collections and recent delinquencies
+C0313,VantageScore4,709,2025-10-05,Delinquencies in past 24 months
+C0314,FICO8,480,2025-10-05,Low utilization; long history
+C0314,VantageScore4,625,2025-10-05,Low utilization; long history
+C0315,FICO8,745,2025-10-05,High utilization; short history
+C0315,VantageScore4,634,2025-10-05,Low utilization; long history
+C0316,FICO8,633,2025-10-05,Recent delinquency; new account
+C0316,VantageScore4,589,2025-10-05,Short history; high utilization
+C0317,FICO8,491,2025-10-05,Multiple inquiries; elevated balances
+C0317,VantageScore4,763,2025-10-05,High utilization; short history
+C0318,FICO8,528,2025-10-05,Low utilization; long history
+C0318,VantageScore4,715,2025-10-05,Short history; high utilization
+C0319,FICO8,559,2025-10-05,High utilization; short history
+C0319,VantageScore4,615,2025-10-05,Short history; high utilization
+C0320,FICO8,778,2025-10-05,Recent delinquency; new account
+C0320,VantageScore4,599,2025-10-05,Multiple inquiries; elevated balances
+C0321,FICO8,633,2025-10-05,Recent inquiry; utilization moderate
+C0321,VantageScore4,772,2025-10-05,Delinquencies in past 24 months
+C0322,FICO8,771,2025-10-05,Recent delinquency; new account
+C0322,VantageScore4,519,2025-10-05,Short history; high utilization
+C0323,FICO8,727,2025-10-05,High utilization; short history
+C0323,VantageScore4,729,2025-10-05,Recent inquiry; utilization moderate
+C0324,FICO8,784,2025-10-05,Multiple inquiries; elevated balances
+C0324,VantageScore4,499,2025-10-05,Delinquencies in past 24 months
+C0325,FICO8,520,2025-10-05,Low utilization; long history
+C0325,VantageScore4,651,2025-10-05,Short history; high utilization
+C0326,FICO8,702,2025-10-05,Delinquencies in past 24 months
+C0326,VantageScore4,541,2025-10-05,Recent delinquency; new account
+C0327,FICO8,788,2025-10-05,Low utilization; long history
+C0327,VantageScore4,675,2025-10-05,Low utilization; long history
+C0328,FICO8,636,2025-10-05,Low utilization; long history
+C0328,VantageScore4,643,2025-10-05,High utilization; short history
+C0329,FICO8,647,2025-10-05,Recent delinquency; new account
+C0329,VantageScore4,558,2025-10-05,Low utilization; long history
+C0330,FICO8,681,2025-10-05,Collections and recent delinquencies
+C0330,VantageScore4,784,2025-10-05,Recent inquiry; utilization moderate
+C0331,FICO8,593,2025-10-05,Delinquencies in past 24 months
+C0331,VantageScore4,628,2025-10-05,Delinquencies in past 24 months
+C0332,FICO8,555,2025-10-05,High utilization; short history
+C0332,VantageScore4,652,2025-10-05,Recent inquiry; utilization moderate
+C0333,FICO8,723,2025-10-05,Low utilization; long history
+C0333,VantageScore4,760,2025-10-05,Delinquencies in past 24 months
+C0334,FICO8,614,2025-10-05,Recent inquiry; utilization moderate
+C0334,VantageScore4,684,2025-10-05,Delinquencies in past 24 months
+C0335,FICO8,546,2025-10-05,High utilization; short history
+C0335,VantageScore4,726,2025-10-05,Recent delinquency; new account
+C0336,FICO8,729,2025-10-05,Delinquencies in past 24 months
+C0336,VantageScore4,772,2025-10-05,Recent delinquency; new account
+C0337,FICO8,767,2025-10-05,Recent delinquency; new account
+C0337,VantageScore4,604,2025-10-05,Recent inquiry; utilization moderate
+C0338,FICO8,616,2025-10-05,Delinquencies in past 24 months
+C0338,VantageScore4,645,2025-10-05,Recent inquiry; utilization moderate
+C0339,FICO8,537,2025-10-05,Delinquencies in past 24 months
+C0339,VantageScore4,696,2025-10-05,Short history; high utilization
+C0340,FICO8,658,2025-10-05,Recent delinquency; new account
+C0340,VantageScore4,644,2025-10-05,Short history; high utilization
+C0341,FICO8,784,2025-10-05,Low utilization; long history
+C0341,VantageScore4,636,2025-10-05,High utilization; short history
+C0342,FICO8,659,2025-10-05,Collections and recent delinquencies
+C0342,VantageScore4,799,2025-10-05,High utilization; short history
+C0343,FICO8,705,2025-10-05,Low utilization; long history
+C0343,VantageScore4,599,2025-10-05,Recent delinquency; new account
+C0344,FICO8,671,2025-10-05,High utilization; short history
+C0344,VantageScore4,523,2025-10-05,Recent inquiry; utilization moderate
+C0345,FICO8,507,2025-10-05,Recent delinquency; new account
+C0345,VantageScore4,797,2025-10-05,High utilization; short history
+C0346,FICO8,627,2025-10-05,Low utilization; long history
+C0346,VantageScore4,655,2025-10-05,Recent inquiry; utilization moderate
+C0347,FICO8,636,2025-10-05,Collections and recent delinquencies
+C0347,VantageScore4,721,2025-10-05,Low utilization; long history
+C0348,FICO8,649,2025-10-05,Recent delinquency; new account
+C0348,VantageScore4,755,2025-10-05,Recent delinquency; new account
+C0349,FICO8,584,2025-10-05,Multiple inquiries; elevated balances
+C0349,VantageScore4,760,2025-10-05,Collections and recent delinquencies
+C0350,FICO8,798,2025-10-05,High utilization; short history
+C0350,VantageScore4,489,2025-10-05,Delinquencies in past 24 months
+C0351,FICO8,778,2025-10-05,Low utilization; long history
+C0351,VantageScore4,610,2025-10-05,High utilization; short history
+C0352,FICO8,510,2025-10-05,Multiple inquiries; elevated balances
+C0352,VantageScore4,582,2025-10-05,Multiple inquiries; elevated balances
+C0353,FICO8,507,2025-10-05,Collections and recent delinquencies
+C0353,VantageScore4,484,2025-10-05,Recent inquiry; utilization moderate
+C0354,FICO8,678,2025-10-05,Multiple inquiries; elevated balances
+C0354,VantageScore4,664,2025-10-05,Recent inquiry; utilization moderate
+C0355,FICO8,489,2025-10-05,Multiple inquiries; elevated balances
+C0355,VantageScore4,677,2025-10-05,Recent delinquency; new account
+C0356,FICO8,674,2025-10-05,Recent inquiry; utilization moderate
+C0356,VantageScore4,641,2025-10-05,Collections and recent delinquencies
+C0357,FICO8,785,2025-10-05,Recent inquiry; utilization moderate
+C0357,VantageScore4,575,2025-10-05,Recent delinquency; new account
+C0358,FICO8,736,2025-10-05,Collections and recent delinquencies
+C0358,VantageScore4,767,2025-10-05,Low utilization; long history
+C0359,FICO8,500,2025-10-05,Recent delinquency; new account
+C0359,VantageScore4,751,2025-10-05,Multiple inquiries; elevated balances
+C0360,FICO8,650,2025-10-05,Collections and recent delinquencies
+C0360,VantageScore4,681,2025-10-05,High utilization; short history
+C0361,FICO8,489,2025-10-05,Short history; high utilization
+C0361,VantageScore4,660,2025-10-05,Short history; high utilization
+C0362,FICO8,800,2025-10-05,Multiple inquiries; elevated balances
+C0362,VantageScore4,600,2025-10-05,Multiple inquiries; elevated balances
+C0363,FICO8,511,2025-10-05,Multiple inquiries; elevated balances
+C0363,VantageScore4,678,2025-10-05,Low utilization; long history
+C0364,FICO8,764,2025-10-05,Multiple inquiries; elevated balances
+C0364,VantageScore4,595,2025-10-05,High utilization; short history
+C0365,FICO8,654,2025-10-05,Delinquencies in past 24 months
+C0365,VantageScore4,550,2025-10-05,Recent inquiry; utilization moderate
+C0366,FICO8,675,2025-10-05,Recent delinquency; new account
+C0366,VantageScore4,693,2025-10-05,Recent delinquency; new account
+C0367,FICO8,773,2025-10-05,High utilization; short history
+C0367,VantageScore4,698,2025-10-05,Multiple inquiries; elevated balances
+C0368,FICO8,789,2025-10-05,Short history; high utilization
+C0368,VantageScore4,709,2025-10-05,High utilization; short history
+C0369,FICO8,585,2025-10-05,High utilization; short history
+C0369,VantageScore4,777,2025-10-05,Recent delinquency; new account
+C0370,FICO8,550,2025-10-05,Multiple inquiries; elevated balances
+C0370,VantageScore4,748,2025-10-05,High utilization; short history
+C0371,FICO8,700,2025-10-05,High utilization; short history
+C0371,VantageScore4,769,2025-10-05,High utilization; short history
+C0372,FICO8,642,2025-10-05,Recent inquiry; utilization moderate
+C0372,VantageScore4,765,2025-10-05,Recent inquiry; utilization moderate
+C0373,FICO8,574,2025-10-05,Short history; high utilization
+C0373,VantageScore4,554,2025-10-05,Low utilization; long history
+C0374,FICO8,643,2025-10-05,Delinquencies in past 24 months
+C0374,VantageScore4,690,2025-10-05,Multiple inquiries; elevated balances
+C0375,FICO8,706,2025-10-05,Multiple inquiries; elevated balances
+C0375,VantageScore4,557,2025-10-05,Recent delinquency; new account
+C0376,FICO8,534,2025-10-05,High utilization; short history
+C0376,VantageScore4,574,2025-10-05,Low utilization; long history
+C0377,FICO8,793,2025-10-05,Multiple inquiries; elevated balances
+C0377,VantageScore4,790,2025-10-05,Recent delinquency; new account
+C0378,FICO8,785,2025-10-05,Recent delinquency; new account
+C0378,VantageScore4,598,2025-10-05,Low utilization; long history
+C0379,FICO8,663,2025-10-05,Recent inquiry; utilization moderate
+C0379,VantageScore4,724,2025-10-05,High utilization; short history
+C0380,FICO8,737,2025-10-05,Collections and recent delinquencies
+C0380,VantageScore4,671,2025-10-05,High utilization; short history
+C0381,FICO8,678,2025-10-05,Collections and recent delinquencies
+C0381,VantageScore4,722,2025-10-05,High utilization; short history
+C0382,FICO8,563,2025-10-05,Recent delinquency; new account
+C0382,VantageScore4,595,2025-10-05,Low utilization; long history
+C0383,FICO8,689,2025-10-05,Low utilization; long history
+C0383,VantageScore4,618,2025-10-05,Delinquencies in past 24 months
+C0384,FICO8,593,2025-10-05,Recent delinquency; new account
+C0384,VantageScore4,584,2025-10-05,Recent inquiry; utilization moderate
+C0385,FICO8,570,2025-10-05,Collections and recent delinquencies
+C0385,VantageScore4,795,2025-10-05,Collections and recent delinquencies
+C0386,FICO8,646,2025-10-05,Collections and recent delinquencies
+C0386,VantageScore4,606,2025-10-05,Delinquencies in past 24 months
+C0387,FICO8,687,2025-10-05,Low utilization; long history
+C0387,VantageScore4,791,2025-10-05,Delinquencies in past 24 months
+C0388,FICO8,640,2025-10-05,Delinquencies in past 24 months
+C0388,VantageScore4,793,2025-10-05,Low utilization; long history
+C0389,FICO8,746,2025-10-05,Recent inquiry; utilization moderate
+C0389,VantageScore4,711,2025-10-05,Collections and recent delinquencies
+C0390,FICO8,501,2025-10-05,Recent delinquency; new account
+C0390,VantageScore4,745,2025-10-05,Delinquencies in past 24 months
+C0391,FICO8,500,2025-10-05,Delinquencies in past 24 months
+C0391,VantageScore4,744,2025-10-05,Low utilization; long history
+C0392,FICO8,577,2025-10-05,Multiple inquiries; elevated balances
+C0392,VantageScore4,705,2025-10-05,Delinquencies in past 24 months
+C0393,FICO8,635,2025-10-05,Multiple inquiries; elevated balances
+C0393,VantageScore4,716,2025-10-05,High utilization; short history
+C0394,FICO8,696,2025-10-05,Multiple inquiries; elevated balances
+C0394,VantageScore4,793,2025-10-05,Low utilization; long history
+C0395,FICO8,744,2025-10-05,High utilization; short history
+C0395,VantageScore4,717,2025-10-05,Collections and recent delinquencies
+C0396,FICO8,526,2025-10-05,Recent inquiry; utilization moderate
+C0396,VantageScore4,572,2025-10-05,High utilization; short history
+C0397,FICO8,681,2025-10-05,Delinquencies in past 24 months
+C0397,VantageScore4,645,2025-10-05,Collections and recent delinquencies
+C0398,FICO8,492,2025-10-05,High utilization; short history
+C0398,VantageScore4,712,2025-10-05,Recent delinquency; new account
+C0399,FICO8,712,2025-10-05,Recent inquiry; utilization moderate
+C0399,VantageScore4,608,2025-10-05,Short history; high utilization
+C0400,FICO8,563,2025-10-05,Recent inquiry; utilization moderate
+C0400,VantageScore4,526,2025-10-05,Recent inquiry; utilization moderate
+C0401,FICO8,710,2025-10-05,Short history; high utilization
+C0401,VantageScore4,523,2025-10-05,Delinquencies in past 24 months
+C0402,FICO8,741,2025-10-05,High utilization; short history
+C0402,VantageScore4,673,2025-10-05,Delinquencies in past 24 months
+C0403,FICO8,502,2025-10-05,High utilization; short history
+C0403,VantageScore4,651,2025-10-05,High utilization; short history
+C0404,FICO8,563,2025-10-05,High utilization; short history
+C0404,VantageScore4,571,2025-10-05,Low utilization; long history
+C0405,FICO8,694,2025-10-05,Multiple inquiries; elevated balances
+C0405,VantageScore4,638,2025-10-05,Collections and recent delinquencies
+C0406,FICO8,627,2025-10-05,High utilization; short history
+C0406,VantageScore4,540,2025-10-05,High utilization; short history
+C0407,FICO8,583,2025-10-05,Low utilization; long history
+C0407,VantageScore4,798,2025-10-05,Multiple inquiries; elevated balances
+C0408,FICO8,486,2025-10-05,Collections and recent delinquencies
+C0408,VantageScore4,734,2025-10-05,Collections and recent delinquencies
+C0409,FICO8,758,2025-10-05,Low utilization; long history
+C0409,VantageScore4,791,2025-10-05,Collections and recent delinquencies
+C0410,FICO8,601,2025-10-05,Recent delinquency; new account
+C0410,VantageScore4,781,2025-10-05,Collections and recent delinquencies
+C0411,FICO8,712,2025-10-05,Delinquencies in past 24 months
+C0411,VantageScore4,706,2025-10-05,Recent inquiry; utilization moderate
+C0412,FICO8,787,2025-10-05,Low utilization; long history
+C0412,VantageScore4,605,2025-10-05,Multiple inquiries; elevated balances
+C0413,FICO8,797,2025-10-05,Recent delinquency; new account
+C0413,VantageScore4,505,2025-10-05,High utilization; short history
+C0414,FICO8,555,2025-10-05,Low utilization; long history
+C0414,VantageScore4,658,2025-10-05,Low utilization; long history
+C0415,FICO8,554,2025-10-05,Low utilization; long history
+C0415,VantageScore4,775,2025-10-05,Multiple inquiries; elevated balances
+C0416,FICO8,649,2025-10-05,Recent inquiry; utilization moderate
+C0416,VantageScore4,505,2025-10-05,Recent inquiry; utilization moderate
+C0417,FICO8,693,2025-10-05,High utilization; short history
+C0417,VantageScore4,562,2025-10-05,Multiple inquiries; elevated balances
+C0418,FICO8,792,2025-10-05,High utilization; short history
+C0418,VantageScore4,713,2025-10-05,Short history; high utilization
+C0419,FICO8,498,2025-10-05,Recent inquiry; utilization moderate
+C0419,VantageScore4,633,2025-10-05,Short history; high utilization
+C0420,FICO8,668,2025-10-05,Delinquencies in past 24 months
+C0420,VantageScore4,514,2025-10-05,Delinquencies in past 24 months
+C0421,FICO8,761,2025-10-05,Recent inquiry; utilization moderate
+C0421,VantageScore4,629,2025-10-05,Collections and recent delinquencies
+C0422,FICO8,548,2025-10-05,Recent inquiry; utilization moderate
+C0422,VantageScore4,620,2025-10-05,Short history; high utilization
+C0423,FICO8,749,2025-10-05,Delinquencies in past 24 months
+C0423,VantageScore4,748,2025-10-05,Recent delinquency; new account
+C0424,FICO8,587,2025-10-05,Low utilization; long history
+C0424,VantageScore4,535,2025-10-05,Recent inquiry; utilization moderate
+C0425,FICO8,727,2025-10-05,Multiple inquiries; elevated balances
+C0425,VantageScore4,698,2025-10-05,Short history; high utilization
+C0426,FICO8,612,2025-10-05,Short history; high utilization
+C0426,VantageScore4,546,2025-10-05,Collections and recent delinquencies
+C0427,FICO8,746,2025-10-05,Collections and recent delinquencies
+C0427,VantageScore4,732,2025-10-05,High utilization; short history
+C0428,FICO8,792,2025-10-05,Recent delinquency; new account
+C0428,VantageScore4,628,2025-10-05,Recent delinquency; new account
+C0429,FICO8,480,2025-10-05,Recent inquiry; utilization moderate
+C0429,VantageScore4,492,2025-10-05,Collections and recent delinquencies
+C0430,FICO8,800,2025-10-05,Recent inquiry; utilization moderate
+C0430,VantageScore4,586,2025-10-05,Delinquencies in past 24 months
+C0431,FICO8,691,2025-10-05,Low utilization; long history
+C0431,VantageScore4,650,2025-10-05,Short history; high utilization
+C0432,FICO8,766,2025-10-05,Recent delinquency; new account
+C0432,VantageScore4,485,2025-10-05,Recent delinquency; new account
+C0433,FICO8,624,2025-10-05,Multiple inquiries; elevated balances
+C0433,VantageScore4,514,2025-10-05,Multiple inquiries; elevated balances
+C0434,FICO8,633,2025-10-05,Short history; high utilization
+C0434,VantageScore4,483,2025-10-05,Recent inquiry; utilization moderate
+C0435,FICO8,650,2025-10-05,Short history; high utilization
+C0435,VantageScore4,682,2025-10-05,Low utilization; long history
+C0436,FICO8,569,2025-10-05,Recent delinquency; new account
+C0436,VantageScore4,649,2025-10-05,Short history; high utilization
+C0437,FICO8,725,2025-10-05,Collections and recent delinquencies
+C0437,VantageScore4,498,2025-10-05,High utilization; short history
+C0438,FICO8,726,2025-10-05,High utilization; short history
+C0438,VantageScore4,715,2025-10-05,Short history; high utilization
+C0439,FICO8,716,2025-10-05,Delinquencies in past 24 months
+C0439,VantageScore4,508,2025-10-05,Multiple inquiries; elevated balances
+C0440,FICO8,769,2025-10-05,Short history; high utilization
+C0440,VantageScore4,764,2025-10-05,Low utilization; long history
+C0441,FICO8,586,2025-10-05,Short history; high utilization
+C0441,VantageScore4,661,2025-10-05,Recent inquiry; utilization moderate
+C0442,FICO8,556,2025-10-05,Multiple inquiries; elevated balances
+C0442,VantageScore4,495,2025-10-05,Short history; high utilization
+C0443,FICO8,672,2025-10-05,High utilization; short history
+C0443,VantageScore4,772,2025-10-05,Delinquencies in past 24 months
+C0444,FICO8,575,2025-10-05,Recent inquiry; utilization moderate
+C0444,VantageScore4,637,2025-10-05,Short history; high utilization
+C0445,FICO8,496,2025-10-05,Multiple inquiries; elevated balances
+C0445,VantageScore4,691,2025-10-05,Recent inquiry; utilization moderate
+C0446,FICO8,734,2025-10-05,Recent delinquency; new account
+C0446,VantageScore4,670,2025-10-05,Collections and recent delinquencies
+C0447,FICO8,634,2025-10-05,Recent delinquency; new account
+C0447,VantageScore4,748,2025-10-05,Multiple inquiries; elevated balances
+C0448,FICO8,569,2025-10-05,Recent inquiry; utilization moderate
+C0448,VantageScore4,671,2025-10-05,Low utilization; long history
+C0449,FICO8,583,2025-10-05,Recent inquiry; utilization moderate
+C0449,VantageScore4,707,2025-10-05,Low utilization; long history
+C0450,FICO8,727,2025-10-05,High utilization; short history
+C0450,VantageScore4,577,2025-10-05,Short history; high utilization
+C0451,FICO8,727,2025-10-05,Multiple inquiries; elevated balances
+C0451,VantageScore4,647,2025-10-05,High utilization; short history
+C0452,FICO8,530,2025-10-05,High utilization; short history
+C0452,VantageScore4,585,2025-10-05,Low utilization; long history
+C0453,FICO8,715,2025-10-05,Delinquencies in past 24 months
+C0453,VantageScore4,747,2025-10-05,Recent inquiry; utilization moderate
+C0454,FICO8,482,2025-10-05,Multiple inquiries; elevated balances
+C0454,VantageScore4,502,2025-10-05,Recent inquiry; utilization moderate
+C0455,FICO8,650,2025-10-05,Collections and recent delinquencies
+C0455,VantageScore4,503,2025-10-05,Recent inquiry; utilization moderate
+C0456,FICO8,746,2025-10-05,Multiple inquiries; elevated balances
+C0456,VantageScore4,491,2025-10-05,Multiple inquiries; elevated balances
+C0457,FICO8,587,2025-10-05,Short history; high utilization
+C0457,VantageScore4,582,2025-10-05,Recent delinquency; new account
+C0458,FICO8,626,2025-10-05,Multiple inquiries; elevated balances
+C0458,VantageScore4,752,2025-10-05,Short history; high utilization
+C0459,FICO8,705,2025-10-05,Recent inquiry; utilization moderate
+C0459,VantageScore4,619,2025-10-05,High utilization; short history
+C0460,FICO8,560,2025-10-05,Multiple inquiries; elevated balances
+C0460,VantageScore4,538,2025-10-05,Low utilization; long history
+C0461,FICO8,798,2025-10-05,Recent inquiry; utilization moderate
+C0461,VantageScore4,585,2025-10-05,Short history; high utilization
+C0462,FICO8,761,2025-10-05,Short history; high utilization
+C0462,VantageScore4,618,2025-10-05,High utilization; short history
+C0463,FICO8,625,2025-10-05,Recent delinquency; new account
+C0463,VantageScore4,567,2025-10-05,Recent inquiry; utilization moderate
+C0464,FICO8,639,2025-10-05,Short history; high utilization
+C0464,VantageScore4,756,2025-10-05,Collections and recent delinquencies
+C0465,FICO8,505,2025-10-05,High utilization; short history
+C0465,VantageScore4,494,2025-10-05,Collections and recent delinquencies
+C0466,FICO8,505,2025-10-05,Recent inquiry; utilization moderate
+C0466,VantageScore4,676,2025-10-05,Low utilization; long history
+C0467,FICO8,524,2025-10-05,Delinquencies in past 24 months
+C0467,VantageScore4,680,2025-10-05,High utilization; short history
+C0468,FICO8,785,2025-10-05,Collections and recent delinquencies
+C0468,VantageScore4,795,2025-10-05,Short history; high utilization
+C0469,FICO8,639,2025-10-05,Short history; high utilization
+C0469,VantageScore4,581,2025-10-05,Recent inquiry; utilization moderate
+C0470,FICO8,718,2025-10-05,High utilization; short history
+C0470,VantageScore4,527,2025-10-05,Collections and recent delinquencies
+C0471,FICO8,529,2025-10-05,Collections and recent delinquencies
+C0471,VantageScore4,638,2025-10-05,Collections and recent delinquencies
+C0472,FICO8,720,2025-10-05,Recent delinquency; new account
+C0472,VantageScore4,594,2025-10-05,High utilization; short history
+C0473,FICO8,795,2025-10-05,Multiple inquiries; elevated balances
+C0473,VantageScore4,666,2025-10-05,Delinquencies in past 24 months
+C0474,FICO8,573,2025-10-05,Short history; high utilization
+C0474,VantageScore4,646,2025-10-05,Collections and recent delinquencies
+C0475,FICO8,729,2025-10-05,Low utilization; long history
+C0475,VantageScore4,513,2025-10-05,Collections and recent delinquencies
+C0476,FICO8,537,2025-10-05,Short history; high utilization
+C0476,VantageScore4,725,2025-10-05,Collections and recent delinquencies
+C0477,FICO8,567,2025-10-05,Multiple inquiries; elevated balances
+C0477,VantageScore4,658,2025-10-05,High utilization; short history
+C0478,FICO8,740,2025-10-05,Recent inquiry; utilization moderate
+C0478,VantageScore4,687,2025-10-05,Recent inquiry; utilization moderate
+C0479,FICO8,646,2025-10-05,Recent inquiry; utilization moderate
+C0479,VantageScore4,634,2025-10-05,Collections and recent delinquencies
+C0480,FICO8,685,2025-10-05,Delinquencies in past 24 months
+C0480,VantageScore4,602,2025-10-05,Recent delinquency; new account
+C0481,FICO8,760,2025-10-05,High utilization; short history
+C0481,VantageScore4,726,2025-10-05,Delinquencies in past 24 months
+C0482,FICO8,513,2025-10-05,Short history; high utilization
+C0482,VantageScore4,586,2025-10-05,Delinquencies in past 24 months
+C0483,FICO8,702,2025-10-05,Short history; high utilization
+C0483,VantageScore4,758,2025-10-05,Recent delinquency; new account
+C0484,FICO8,568,2025-10-05,Recent inquiry; utilization moderate
+C0484,VantageScore4,773,2025-10-05,Collections and recent delinquencies
+C0485,FICO8,538,2025-10-05,Collections and recent delinquencies
+C0485,VantageScore4,646,2025-10-05,Recent inquiry; utilization moderate
+C0486,FICO8,707,2025-10-05,High utilization; short history
+C0486,VantageScore4,637,2025-10-05,Delinquencies in past 24 months
+C0487,FICO8,515,2025-10-05,Recent inquiry; utilization moderate
+C0487,VantageScore4,785,2025-10-05,Delinquencies in past 24 months
+C0488,FICO8,647,2025-10-05,Collections and recent delinquencies
+C0488,VantageScore4,511,2025-10-05,Recent inquiry; utilization moderate
+C0489,FICO8,591,2025-10-05,High utilization; short history
+C0489,VantageScore4,777,2025-10-05,Low utilization; long history
+C0490,FICO8,555,2025-10-05,High utilization; short history
+C0490,VantageScore4,711,2025-10-05,Multiple inquiries; elevated balances
+C0491,FICO8,679,2025-10-05,Collections and recent delinquencies
+C0491,VantageScore4,580,2025-10-05,Recent delinquency; new account
+C0492,FICO8,642,2025-10-05,Multiple inquiries; elevated balances
+C0492,VantageScore4,771,2025-10-05,Multiple inquiries; elevated balances
+C0493,FICO8,702,2025-10-05,Short history; high utilization
+C0493,VantageScore4,525,2025-10-05,Low utilization; long history
+C0494,FICO8,793,2025-10-05,Delinquencies in past 24 months
+C0494,VantageScore4,545,2025-10-05,Multiple inquiries; elevated balances
+C0495,FICO8,511,2025-10-05,Short history; high utilization
+C0495,VantageScore4,761,2025-10-05,Low utilization; long history
+C0496,FICO8,480,2025-10-05,Short history; high utilization
+C0496,VantageScore4,536,2025-10-05,Multiple inquiries; elevated balances
+C0497,FICO8,495,2025-10-05,Recent delinquency; new account
+C0497,VantageScore4,701,2025-10-05,Delinquencies in past 24 months
+C0498,FICO8,800,2025-10-05,Short history; high utilization
+C0498,VantageScore4,675,2025-10-05,Delinquencies in past 24 months
+C0499,FICO8,675,2025-10-05,Delinquencies in past 24 months
+C0499,VantageScore4,759,2025-10-05,Recent delinquency; new account
+C0500,FICO8,568,2025-10-05,Collections and recent delinquencies
+C0500,VantageScore4,551,2025-10-05,Recent delinquency; new account
+C0501,FICO8,764,2025-10-05,Delinquencies in past 24 months
+C0501,VantageScore4,664,2025-10-05,Delinquencies in past 24 months
+C0502,FICO8,558,2025-10-05,Multiple inquiries; elevated balances
+C0502,VantageScore4,544,2025-10-05,High utilization; short history
+C0503,FICO8,485,2025-10-05,Recent inquiry; utilization moderate
+C0503,VantageScore4,488,2025-10-05,High utilization; short history
+C0504,FICO8,729,2025-10-05,Delinquencies in past 24 months
+C0504,VantageScore4,549,2025-10-05,Recent inquiry; utilization moderate
+C0505,FICO8,550,2025-10-05,Delinquencies in past 24 months
+C0505,VantageScore4,713,2025-10-05,Delinquencies in past 24 months
+C0506,FICO8,799,2025-10-05,High utilization; short history
+C0506,VantageScore4,712,2025-10-05,Delinquencies in past 24 months
+C0507,FICO8,762,2025-10-05,Collections and recent delinquencies
+C0507,VantageScore4,676,2025-10-05,Short history; high utilization
+C0508,FICO8,595,2025-10-05,High utilization; short history
+C0508,VantageScore4,697,2025-10-05,Low utilization; long history
+C0509,FICO8,775,2025-10-05,Collections and recent delinquencies
+C0509,VantageScore4,601,2025-10-05,Multiple inquiries; elevated balances
+C0510,FICO8,690,2025-10-05,Short history; high utilization
+C0510,VantageScore4,497,2025-10-05,Low utilization; long history
+C0511,FICO8,770,2025-10-05,Collections and recent delinquencies
+C0511,VantageScore4,668,2025-10-05,Recent inquiry; utilization moderate
+C0512,FICO8,777,2025-10-05,Collections and recent delinquencies
+C0512,VantageScore4,520,2025-10-05,High utilization; short history
+C0513,FICO8,749,2025-10-05,Multiple inquiries; elevated balances
+C0513,VantageScore4,718,2025-10-05,Recent inquiry; utilization moderate
+C0514,FICO8,747,2025-10-05,Recent inquiry; utilization moderate
+C0514,VantageScore4,605,2025-10-05,Collections and recent delinquencies
+C0515,FICO8,519,2025-10-05,Multiple inquiries; elevated balances
+C0515,VantageScore4,793,2025-10-05,Low utilization; long history
+C0516,FICO8,655,2025-10-05,Low utilization; long history
+C0516,VantageScore4,720,2025-10-05,Collections and recent delinquencies
+C0517,FICO8,742,2025-10-05,Collections and recent delinquencies
+C0517,VantageScore4,773,2025-10-05,Short history; high utilization
+C0518,FICO8,695,2025-10-05,Short history; high utilization
+C0518,VantageScore4,630,2025-10-05,Multiple inquiries; elevated balances
+C0519,FICO8,565,2025-10-05,Low utilization; long history
+C0519,VantageScore4,785,2025-10-05,Multiple inquiries; elevated balances
+C0520,FICO8,768,2025-10-05,Multiple inquiries; elevated balances
+C0520,VantageScore4,511,2025-10-05,Collections and recent delinquencies
+C0521,FICO8,776,2025-10-05,High utilization; short history
+C0521,VantageScore4,773,2025-10-05,Low utilization; long history
+C0522,FICO8,629,2025-10-05,Low utilization; long history
+C0522,VantageScore4,626,2025-10-05,Collections and recent delinquencies
+C0523,FICO8,522,2025-10-05,High utilization; short history
+C0523,VantageScore4,738,2025-10-05,Recent inquiry; utilization moderate
+C0524,FICO8,622,2025-10-05,Multiple inquiries; elevated balances
+C0524,VantageScore4,547,2025-10-05,Multiple inquiries; elevated balances
+C0525,FICO8,620,2025-10-05,Multiple inquiries; elevated balances
+C0525,VantageScore4,487,2025-10-05,Recent inquiry; utilization moderate
+C0526,FICO8,789,2025-10-05,High utilization; short history
+C0526,VantageScore4,782,2025-10-05,High utilization; short history
+C0527,FICO8,708,2025-10-05,Short history; high utilization
+C0527,VantageScore4,569,2025-10-05,Multiple inquiries; elevated balances
+C0528,FICO8,600,2025-10-05,Collections and recent delinquencies
+C0528,VantageScore4,572,2025-10-05,Low utilization; long history
+C0529,FICO8,655,2025-10-05,Recent inquiry; utilization moderate
+C0529,VantageScore4,554,2025-10-05,High utilization; short history
+C0530,FICO8,733,2025-10-05,Delinquencies in past 24 months
+C0530,VantageScore4,676,2025-10-05,Recent delinquency; new account
+C0531,FICO8,705,2025-10-05,High utilization; short history
+C0531,VantageScore4,587,2025-10-05,Short history; high utilization
+C0532,FICO8,507,2025-10-05,Multiple inquiries; elevated balances
+C0532,VantageScore4,539,2025-10-05,Low utilization; long history
+C0533,FICO8,565,2025-10-05,Collections and recent delinquencies
+C0533,VantageScore4,684,2025-10-05,Collections and recent delinquencies
+C0534,FICO8,634,2025-10-05,Collections and recent delinquencies
+C0534,VantageScore4,752,2025-10-05,Recent delinquency; new account
+C0535,FICO8,674,2025-10-05,Delinquencies in past 24 months
+C0535,VantageScore4,722,2025-10-05,Multiple inquiries; elevated balances
+C0536,FICO8,554,2025-10-05,Delinquencies in past 24 months
+C0536,VantageScore4,486,2025-10-05,Multiple inquiries; elevated balances
+C0537,FICO8,709,2025-10-05,Delinquencies in past 24 months
+C0537,VantageScore4,641,2025-10-05,Low utilization; long history
+C0538,FICO8,529,2025-10-05,Short history; high utilization
+C0538,VantageScore4,701,2025-10-05,Multiple inquiries; elevated balances
+C0539,FICO8,651,2025-10-05,Multiple inquiries; elevated balances
+C0539,VantageScore4,616,2025-10-05,Recent inquiry; utilization moderate
+C0540,FICO8,610,2025-10-05,Delinquencies in past 24 months
+C0540,VantageScore4,716,2025-10-05,Recent delinquency; new account
+C0541,FICO8,781,2025-10-05,Recent delinquency; new account
+C0541,VantageScore4,746,2025-10-05,Short history; high utilization
+C0542,FICO8,572,2025-10-05,Short history; high utilization
+C0542,VantageScore4,760,2025-10-05,Low utilization; long history
+C0543,FICO8,484,2025-10-05,Recent inquiry; utilization moderate
+C0543,VantageScore4,486,2025-10-05,Delinquencies in past 24 months
+C0544,FICO8,530,2025-10-05,Recent inquiry; utilization moderate
+C0544,VantageScore4,708,2025-10-05,Short history; high utilization
+C0545,FICO8,592,2025-10-05,Multiple inquiries; elevated balances
+C0545,VantageScore4,608,2025-10-05,Recent delinquency; new account
+C0546,FICO8,497,2025-10-05,Low utilization; long history
+C0546,VantageScore4,797,2025-10-05,Recent inquiry; utilization moderate
+C0547,FICO8,509,2025-10-05,Recent delinquency; new account
+C0547,VantageScore4,786,2025-10-05,Recent inquiry; utilization moderate
+C0548,FICO8,541,2025-10-05,Recent inquiry; utilization moderate
+C0548,VantageScore4,789,2025-10-05,High utilization; short history
+C0549,FICO8,672,2025-10-05,High utilization; short history
+C0549,VantageScore4,536,2025-10-05,High utilization; short history
+C0550,FICO8,609,2025-10-05,Multiple inquiries; elevated balances
+C0550,VantageScore4,719,2025-10-05,Recent inquiry; utilization moderate
+C0551,FICO8,712,2025-10-05,Multiple inquiries; elevated balances
+C0551,VantageScore4,698,2025-10-05,Short history; high utilization
+C0552,FICO8,611,2025-10-05,High utilization; short history
+C0552,VantageScore4,517,2025-10-05,Multiple inquiries; elevated balances
+C0553,FICO8,511,2025-10-05,Delinquencies in past 24 months
+C0553,VantageScore4,678,2025-10-05,Short history; high utilization
+C0554,FICO8,510,2025-10-05,Multiple inquiries; elevated balances
+C0554,VantageScore4,615,2025-10-05,High utilization; short history
+C0555,FICO8,705,2025-10-05,Recent inquiry; utilization moderate
+C0555,VantageScore4,731,2025-10-05,Recent delinquency; new account
+C0556,FICO8,792,2025-10-05,Delinquencies in past 24 months
+C0556,VantageScore4,571,2025-10-05,Collections and recent delinquencies
+C0557,FICO8,535,2025-10-05,High utilization; short history
+C0557,VantageScore4,756,2025-10-05,Delinquencies in past 24 months
+C0558,FICO8,591,2025-10-05,Recent inquiry; utilization moderate
+C0558,VantageScore4,706,2025-10-05,Multiple inquiries; elevated balances
+C0559,FICO8,532,2025-10-05,Low utilization; long history
+C0559,VantageScore4,517,2025-10-05,Recent inquiry; utilization moderate
+C0560,FICO8,772,2025-10-05,Multiple inquiries; elevated balances
+C0560,VantageScore4,708,2025-10-05,Low utilization; long history
+C0561,FICO8,734,2025-10-05,High utilization; short history
+C0561,VantageScore4,480,2025-10-05,Low utilization; long history
+C0562,FICO8,679,2025-10-05,Multiple inquiries; elevated balances
+C0562,VantageScore4,557,2025-10-05,Short history; high utilization
+C0563,FICO8,680,2025-10-05,Low utilization; long history
+C0563,VantageScore4,743,2025-10-05,Collections and recent delinquencies
+C0564,FICO8,724,2025-10-05,Delinquencies in past 24 months
+C0564,VantageScore4,686,2025-10-05,Recent inquiry; utilization moderate
+C0565,FICO8,756,2025-10-05,Recent delinquency; new account
+C0565,VantageScore4,481,2025-10-05,Delinquencies in past 24 months
+C0566,FICO8,726,2025-10-05,Recent inquiry; utilization moderate
+C0566,VantageScore4,770,2025-10-05,Short history; high utilization
+C0567,FICO8,650,2025-10-05,Multiple inquiries; elevated balances
+C0567,VantageScore4,685,2025-10-05,Low utilization; long history
+C0568,FICO8,526,2025-10-05,Short history; high utilization
+C0568,VantageScore4,753,2025-10-05,Short history; high utilization
+C0569,FICO8,521,2025-10-05,Collections and recent delinquencies
+C0569,VantageScore4,628,2025-10-05,Recent delinquency; new account
+C0570,FICO8,570,2025-10-05,Low utilization; long history
+C0570,VantageScore4,676,2025-10-05,Recent delinquency; new account
+C0571,FICO8,633,2025-10-05,Delinquencies in past 24 months
+C0571,VantageScore4,534,2025-10-05,Short history; high utilization
+C0572,FICO8,729,2025-10-05,Recent inquiry; utilization moderate
+C0572,VantageScore4,704,2025-10-05,Recent delinquency; new account
+C0573,FICO8,551,2025-10-05,Low utilization; long history
+C0573,VantageScore4,578,2025-10-05,Low utilization; long history
+C0574,FICO8,783,2025-10-05,Recent delinquency; new account
+C0574,VantageScore4,730,2025-10-05,Delinquencies in past 24 months
+C0575,FICO8,512,2025-10-05,Multiple inquiries; elevated balances
+C0575,VantageScore4,735,2025-10-05,Collections and recent delinquencies
+C0576,FICO8,488,2025-10-05,Low utilization; long history
+C0576,VantageScore4,653,2025-10-05,Low utilization; long history
+C0577,FICO8,652,2025-10-05,Low utilization; long history
+C0577,VantageScore4,687,2025-10-05,Recent inquiry; utilization moderate
+C0578,FICO8,588,2025-10-05,Collections and recent delinquencies
+C0578,VantageScore4,754,2025-10-05,High utilization; short history
+C0579,FICO8,776,2025-10-05,Recent delinquency; new account
+C0579,VantageScore4,516,2025-10-05,Low utilization; long history
+C0580,FICO8,552,2025-10-05,Collections and recent delinquencies
+C0580,VantageScore4,489,2025-10-05,Collections and recent delinquencies
+C0581,FICO8,796,2025-10-05,Low utilization; long history
+C0581,VantageScore4,604,2025-10-05,High utilization; short history
+C0582,FICO8,487,2025-10-05,High utilization; short history
+C0582,VantageScore4,505,2025-10-05,Multiple inquiries; elevated balances
+C0583,FICO8,529,2025-10-05,Collections and recent delinquencies
+C0583,VantageScore4,792,2025-10-05,High utilization; short history
+C0584,FICO8,782,2025-10-05,Recent inquiry; utilization moderate
+C0584,VantageScore4,534,2025-10-05,Recent inquiry; utilization moderate
+C0585,FICO8,734,2025-10-05,Recent delinquency; new account
+C0585,VantageScore4,512,2025-10-05,Recent delinquency; new account
+C0586,FICO8,698,2025-10-05,Short history; high utilization
+C0586,VantageScore4,685,2025-10-05,Short history; high utilization
+C0587,FICO8,541,2025-10-05,High utilization; short history
+C0587,VantageScore4,644,2025-10-05,Recent delinquency; new account
+C0588,FICO8,503,2025-10-05,High utilization; short history
+C0588,VantageScore4,651,2025-10-05,Recent inquiry; utilization moderate
+C0589,FICO8,541,2025-10-05,Multiple inquiries; elevated balances
+C0589,VantageScore4,552,2025-10-05,Delinquencies in past 24 months
+C0590,FICO8,566,2025-10-05,Short history; high utilization
+C0590,VantageScore4,763,2025-10-05,High utilization; short history
+C0591,FICO8,704,2025-10-05,Recent delinquency; new account
+C0591,VantageScore4,777,2025-10-05,Low utilization; long history
+C0592,FICO8,548,2025-10-05,Recent inquiry; utilization moderate
+C0592,VantageScore4,793,2025-10-05,Delinquencies in past 24 months
+C0593,FICO8,560,2025-10-05,Low utilization; long history
+C0593,VantageScore4,729,2025-10-05,Recent inquiry; utilization moderate
+C0594,FICO8,483,2025-10-05,Low utilization; long history
+C0594,VantageScore4,571,2025-10-05,Recent inquiry; utilization moderate
+C0595,FICO8,783,2025-10-05,Multiple inquiries; elevated balances
+C0595,VantageScore4,693,2025-10-05,Collections and recent delinquencies
+C0596,FICO8,544,2025-10-05,Recent delinquency; new account
+C0596,VantageScore4,553,2025-10-05,Multiple inquiries; elevated balances
+C0597,FICO8,747,2025-10-05,Collections and recent delinquencies
+C0597,VantageScore4,690,2025-10-05,Recent delinquency; new account
+C0598,FICO8,569,2025-10-05,Low utilization; long history
+C0598,VantageScore4,785,2025-10-05,High utilization; short history
+C0599,FICO8,735,2025-10-05,Recent inquiry; utilization moderate
+C0599,VantageScore4,634,2025-10-05,Short history; high utilization
+C0600,FICO8,694,2025-10-05,Low utilization; long history
+C0600,VantageScore4,765,2025-10-05,Recent delinquency; new account
+C0601,FICO8,578,2025-10-05,Recent inquiry; utilization moderate
+C0601,VantageScore4,751,2025-10-05,Recent inquiry; utilization moderate
+C0602,FICO8,796,2025-10-05,Short history; high utilization
+C0602,VantageScore4,756,2025-10-05,Recent delinquency; new account
+C0603,FICO8,717,2025-10-05,Recent delinquency; new account
+C0603,VantageScore4,621,2025-10-05,Low utilization; long history
+C0604,FICO8,579,2025-10-05,Recent inquiry; utilization moderate
+C0604,VantageScore4,556,2025-10-05,Collections and recent delinquencies
+C0605,FICO8,734,2025-10-05,High utilization; short history
+C0605,VantageScore4,561,2025-10-05,Low utilization; long history
+C0606,FICO8,507,2025-10-05,Short history; high utilization
+C0606,VantageScore4,625,2025-10-05,Recent delinquency; new account
+C0607,FICO8,702,2025-10-05,Multiple inquiries; elevated balances
+C0607,VantageScore4,651,2025-10-05,Collections and recent delinquencies
+C0608,FICO8,502,2025-10-05,Recent inquiry; utilization moderate
+C0608,VantageScore4,506,2025-10-05,High utilization; short history
+C0609,FICO8,560,2025-10-05,Low utilization; long history
+C0609,VantageScore4,728,2025-10-05,Recent inquiry; utilization moderate
+C0610,FICO8,516,2025-10-05,Recent delinquency; new account
+C0610,VantageScore4,707,2025-10-05,Short history; high utilization
+C0611,FICO8,694,2025-10-05,Recent delinquency; new account
+C0611,VantageScore4,646,2025-10-05,Recent delinquency; new account
+C0612,FICO8,536,2025-10-05,Short history; high utilization
+C0612,VantageScore4,596,2025-10-05,Recent inquiry; utilization moderate
+C0613,FICO8,601,2025-10-05,Delinquencies in past 24 months
+C0613,VantageScore4,582,2025-10-05,Delinquencies in past 24 months
+C0614,FICO8,592,2025-10-05,Recent inquiry; utilization moderate
+C0614,VantageScore4,721,2025-10-05,Collections and recent delinquencies
+C0615,FICO8,507,2025-10-05,Delinquencies in past 24 months
+C0615,VantageScore4,554,2025-10-05,Recent delinquency; new account
+C0616,FICO8,792,2025-10-05,Collections and recent delinquencies
+C0616,VantageScore4,571,2025-10-05,Delinquencies in past 24 months
+C0617,FICO8,671,2025-10-05,High utilization; short history
+C0617,VantageScore4,714,2025-10-05,Recent delinquency; new account
+C0618,FICO8,663,2025-10-05,Multiple inquiries; elevated balances
+C0618,VantageScore4,583,2025-10-05,Short history; high utilization
+C0619,FICO8,545,2025-10-05,Low utilization; long history
+C0619,VantageScore4,771,2025-10-05,Low utilization; long history
+C0620,FICO8,623,2025-10-05,High utilization; short history
+C0620,VantageScore4,536,2025-10-05,Collections and recent delinquencies
+C0621,FICO8,714,2025-10-05,Delinquencies in past 24 months
+C0621,VantageScore4,567,2025-10-05,Short history; high utilization
+C0622,FICO8,592,2025-10-05,Multiple inquiries; elevated balances
+C0622,VantageScore4,789,2025-10-05,High utilization; short history
+C0623,FICO8,793,2025-10-05,High utilization; short history
+C0623,VantageScore4,775,2025-10-05,Recent delinquency; new account
+C0624,FICO8,524,2025-10-05,Delinquencies in past 24 months
+C0624,VantageScore4,747,2025-10-05,Collections and recent delinquencies
+C0625,FICO8,590,2025-10-05,Collections and recent delinquencies
+C0625,VantageScore4,716,2025-10-05,Multiple inquiries; elevated balances
+C0626,FICO8,487,2025-10-05,Delinquencies in past 24 months
+C0626,VantageScore4,606,2025-10-05,Recent delinquency; new account
+C0627,FICO8,647,2025-10-05,Delinquencies in past 24 months
+C0627,VantageScore4,776,2025-10-05,Recent delinquency; new account
+C0628,FICO8,782,2025-10-05,High utilization; short history
+C0628,VantageScore4,773,2025-10-05,Low utilization; long history
+C0629,FICO8,693,2025-10-05,Low utilization; long history
+C0629,VantageScore4,500,2025-10-05,Collections and recent delinquencies
+C0630,FICO8,738,2025-10-05,Low utilization; long history
+C0630,VantageScore4,697,2025-10-05,Delinquencies in past 24 months
+C0631,FICO8,725,2025-10-05,Recent inquiry; utilization moderate
+C0631,VantageScore4,711,2025-10-05,Collections and recent delinquencies
+C0632,FICO8,603,2025-10-05,Recent inquiry; utilization moderate
+C0632,VantageScore4,765,2025-10-05,Low utilization; long history
+C0633,FICO8,688,2025-10-05,Recent delinquency; new account
+C0633,VantageScore4,547,2025-10-05,Short history; high utilization
+C0634,FICO8,631,2025-10-05,Recent delinquency; new account
+C0634,VantageScore4,526,2025-10-05,Low utilization; long history
+C0635,FICO8,725,2025-10-05,Multiple inquiries; elevated balances
+C0635,VantageScore4,562,2025-10-05,Collections and recent delinquencies
+C0636,FICO8,772,2025-10-05,Low utilization; long history
+C0636,VantageScore4,712,2025-10-05,Collections and recent delinquencies
+C0637,FICO8,550,2025-10-05,Delinquencies in past 24 months
+C0637,VantageScore4,574,2025-10-05,Short history; high utilization
+C0638,FICO8,800,2025-10-05,Collections and recent delinquencies
+C0638,VantageScore4,480,2025-10-05,Recent inquiry; utilization moderate
+C0639,FICO8,677,2025-10-05,Short history; high utilization
+C0639,VantageScore4,751,2025-10-05,Low utilization; long history
+C0640,FICO8,631,2025-10-05,Delinquencies in past 24 months
+C0640,VantageScore4,618,2025-10-05,Recent delinquency; new account
+C0641,FICO8,521,2025-10-05,Short history; high utilization
+C0641,VantageScore4,508,2025-10-05,Short history; high utilization
+C0642,FICO8,506,2025-10-05,Recent inquiry; utilization moderate
+C0642,VantageScore4,676,2025-10-05,Short history; high utilization
+C0643,FICO8,718,2025-10-05,Low utilization; long history
+C0643,VantageScore4,667,2025-10-05,Short history; high utilization
+C0644,FICO8,569,2025-10-05,Recent inquiry; utilization moderate
+C0644,VantageScore4,767,2025-10-05,Recent delinquency; new account
+C0645,FICO8,550,2025-10-05,Short history; high utilization
+C0645,VantageScore4,602,2025-10-05,Recent inquiry; utilization moderate
+C0646,FICO8,724,2025-10-05,Recent delinquency; new account
+C0646,VantageScore4,595,2025-10-05,Short history; high utilization
+C0647,FICO8,660,2025-10-05,Multiple inquiries; elevated balances
+C0647,VantageScore4,737,2025-10-05,Delinquencies in past 24 months
+C0648,FICO8,621,2025-10-05,Low utilization; long history
+C0648,VantageScore4,512,2025-10-05,Short history; high utilization
+C0649,FICO8,656,2025-10-05,Collections and recent delinquencies
+C0649,VantageScore4,728,2025-10-05,Recent inquiry; utilization moderate
+C0650,FICO8,720,2025-10-05,Multiple inquiries; elevated balances
+C0650,VantageScore4,711,2025-10-05,Short history; high utilization
+C0651,FICO8,513,2025-10-05,Recent delinquency; new account
+C0651,VantageScore4,714,2025-10-05,Recent inquiry; utilization moderate
+C0652,FICO8,521,2025-10-05,Delinquencies in past 24 months
+C0652,VantageScore4,571,2025-10-05,Multiple inquiries; elevated balances
+C0653,FICO8,519,2025-10-05,Recent inquiry; utilization moderate
+C0653,VantageScore4,564,2025-10-05,Multiple inquiries; elevated balances
+C0654,FICO8,537,2025-10-05,High utilization; short history
+C0654,VantageScore4,734,2025-10-05,High utilization; short history
+C0655,FICO8,584,2025-10-05,Low utilization; long history
+C0655,VantageScore4,630,2025-10-05,Delinquencies in past 24 months
+C0656,FICO8,757,2025-10-05,High utilization; short history
+C0656,VantageScore4,722,2025-10-05,Short history; high utilization
+C0657,FICO8,695,2025-10-05,Collections and recent delinquencies
+C0657,VantageScore4,490,2025-10-05,Multiple inquiries; elevated balances
+C0658,FICO8,576,2025-10-05,Recent inquiry; utilization moderate
+C0658,VantageScore4,491,2025-10-05,Recent delinquency; new account
+C0659,FICO8,746,2025-10-05,Short history; high utilization
+C0659,VantageScore4,690,2025-10-05,Short history; high utilization
+C0660,FICO8,647,2025-10-05,Collections and recent delinquencies
+C0660,VantageScore4,783,2025-10-05,Collections and recent delinquencies
+C0661,FICO8,714,2025-10-05,Multiple inquiries; elevated balances
+C0661,VantageScore4,770,2025-10-05,High utilization; short history
+C0662,FICO8,636,2025-10-05,High utilization; short history
+C0662,VantageScore4,613,2025-10-05,Recent delinquency; new account
+C0663,FICO8,727,2025-10-05,Short history; high utilization
+C0663,VantageScore4,627,2025-10-05,Low utilization; long history
+C0664,FICO8,555,2025-10-05,Short history; high utilization
+C0664,VantageScore4,625,2025-10-05,Collections and recent delinquencies
+C0665,FICO8,565,2025-10-05,High utilization; short history
+C0665,VantageScore4,754,2025-10-05,Multiple inquiries; elevated balances
+C0666,FICO8,573,2025-10-05,High utilization; short history
+C0666,VantageScore4,558,2025-10-05,High utilization; short history
+C0667,FICO8,601,2025-10-05,Recent inquiry; utilization moderate
+C0667,VantageScore4,501,2025-10-05,Short history; high utilization
+C0668,FICO8,774,2025-10-05,High utilization; short history
+C0668,VantageScore4,705,2025-10-05,Multiple inquiries; elevated balances
+C0669,FICO8,669,2025-10-05,High utilization; short history
+C0669,VantageScore4,585,2025-10-05,Low utilization; long history
+C0670,FICO8,642,2025-10-05,Short history; high utilization
+C0670,VantageScore4,555,2025-10-05,Short history; high utilization
+C0671,FICO8,709,2025-10-05,High utilization; short history
+C0671,VantageScore4,753,2025-10-05,Multiple inquiries; elevated balances
+C0672,FICO8,542,2025-10-05,Low utilization; long history
+C0672,VantageScore4,687,2025-10-05,Collections and recent delinquencies
+C0673,FICO8,554,2025-10-05,Collections and recent delinquencies
+C0673,VantageScore4,643,2025-10-05,High utilization; short history
+C0674,FICO8,482,2025-10-05,Short history; high utilization
+C0674,VantageScore4,631,2025-10-05,Collections and recent delinquencies
+C0675,FICO8,628,2025-10-05,High utilization; short history
+C0675,VantageScore4,769,2025-10-05,Collections and recent delinquencies
+C0676,FICO8,653,2025-10-05,Recent inquiry; utilization moderate
+C0676,VantageScore4,725,2025-10-05,Low utilization; long history
+C0677,FICO8,551,2025-10-05,Recent inquiry; utilization moderate
+C0677,VantageScore4,637,2025-10-05,Low utilization; long history
+C0678,FICO8,685,2025-10-05,Recent delinquency; new account
+C0678,VantageScore4,708,2025-10-05,Short history; high utilization
+C0679,FICO8,527,2025-10-05,Short history; high utilization
+C0679,VantageScore4,508,2025-10-05,Recent delinquency; new account
+C0680,FICO8,778,2025-10-05,Recent delinquency; new account
+C0680,VantageScore4,622,2025-10-05,Recent delinquency; new account
+C0681,FICO8,491,2025-10-05,Recent inquiry; utilization moderate
+C0681,VantageScore4,755,2025-10-05,Collections and recent delinquencies
+C0682,FICO8,524,2025-10-05,Delinquencies in past 24 months
+C0682,VantageScore4,579,2025-10-05,Collections and recent delinquencies
+C0683,FICO8,642,2025-10-05,Low utilization; long history
+C0683,VantageScore4,664,2025-10-05,Delinquencies in past 24 months
+C0684,FICO8,555,2025-10-05,Delinquencies in past 24 months
+C0684,VantageScore4,669,2025-10-05,Delinquencies in past 24 months
+C0685,FICO8,670,2025-10-05,Low utilization; long history
+C0685,VantageScore4,625,2025-10-05,Short history; high utilization
+C0686,FICO8,659,2025-10-05,Multiple inquiries; elevated balances
+C0686,VantageScore4,708,2025-10-05,Recent inquiry; utilization moderate
+C0687,FICO8,590,2025-10-05,Collections and recent delinquencies
+C0687,VantageScore4,692,2025-10-05,Collections and recent delinquencies
+C0688,FICO8,627,2025-10-05,High utilization; short history
+C0688,VantageScore4,697,2025-10-05,Delinquencies in past 24 months
+C0689,FICO8,551,2025-10-05,Recent inquiry; utilization moderate
+C0689,VantageScore4,553,2025-10-05,Recent delinquency; new account
+C0690,FICO8,635,2025-10-05,Collections and recent delinquencies
+C0690,VantageScore4,748,2025-10-05,Short history; high utilization
+C0691,FICO8,513,2025-10-05,Delinquencies in past 24 months
+C0691,VantageScore4,525,2025-10-05,Low utilization; long history
+C0692,FICO8,689,2025-10-05,Multiple inquiries; elevated balances
+C0692,VantageScore4,692,2025-10-05,High utilization; short history
+C0693,FICO8,764,2025-10-05,Collections and recent delinquencies
+C0693,VantageScore4,770,2025-10-05,High utilization; short history
+C0694,FICO8,582,2025-10-05,High utilization; short history
+C0694,VantageScore4,675,2025-10-05,Multiple inquiries; elevated balances
+C0695,FICO8,763,2025-10-05,Collections and recent delinquencies
+C0695,VantageScore4,501,2025-10-05,Multiple inquiries; elevated balances
+C0696,FICO8,779,2025-10-05,Multiple inquiries; elevated balances
+C0696,VantageScore4,732,2025-10-05,Collections and recent delinquencies
+C0697,FICO8,594,2025-10-05,Low utilization; long history
+C0697,VantageScore4,481,2025-10-05,High utilization; short history
+C0698,FICO8,614,2025-10-05,Multiple inquiries; elevated balances
+C0698,VantageScore4,721,2025-10-05,Recent inquiry; utilization moderate
+C0699,FICO8,627,2025-10-05,Delinquencies in past 24 months
+C0699,VantageScore4,571,2025-10-05,Collections and recent delinquencies
+C0700,FICO8,605,2025-10-05,Low utilization; long history
+C0700,VantageScore4,541,2025-10-05,Multiple inquiries; elevated balances
+C0701,FICO8,732,2025-10-05,Recent inquiry; utilization moderate
+C0701,VantageScore4,786,2025-10-05,Short history; high utilization
+C0702,FICO8,777,2025-10-05,Collections and recent delinquencies
+C0702,VantageScore4,769,2025-10-05,Delinquencies in past 24 months
+C0703,FICO8,612,2025-10-05,Collections and recent delinquencies
+C0703,VantageScore4,541,2025-10-05,Short history; high utilization
+C0704,FICO8,742,2025-10-05,Low utilization; long history
+C0704,VantageScore4,612,2025-10-05,High utilization; short history
+C0705,FICO8,777,2025-10-05,Low utilization; long history
+C0705,VantageScore4,554,2025-10-05,Short history; high utilization
+C0706,FICO8,716,2025-10-05,High utilization; short history
+C0706,VantageScore4,662,2025-10-05,High utilization; short history
+C0707,FICO8,507,2025-10-05,Multiple inquiries; elevated balances
+C0707,VantageScore4,664,2025-10-05,Delinquencies in past 24 months
+C0708,FICO8,662,2025-10-05,Low utilization; long history
+C0708,VantageScore4,628,2025-10-05,Multiple inquiries; elevated balances
+C0709,FICO8,751,2025-10-05,Recent inquiry; utilization moderate
+C0709,VantageScore4,743,2025-10-05,Recent delinquency; new account
+C0710,FICO8,573,2025-10-05,Recent inquiry; utilization moderate
+C0710,VantageScore4,786,2025-10-05,High utilization; short history
+C0711,FICO8,758,2025-10-05,Short history; high utilization
+C0711,VantageScore4,641,2025-10-05,Multiple inquiries; elevated balances
+C0712,FICO8,618,2025-10-05,Short history; high utilization
+C0712,VantageScore4,529,2025-10-05,Short history; high utilization
+C0713,FICO8,553,2025-10-05,Low utilization; long history
+C0713,VantageScore4,550,2025-10-05,Multiple inquiries; elevated balances
+C0714,FICO8,670,2025-10-05,Collections and recent delinquencies
+C0714,VantageScore4,690,2025-10-05,Short history; high utilization
+C0715,FICO8,563,2025-10-05,Recent inquiry; utilization moderate
+C0715,VantageScore4,591,2025-10-05,High utilization; short history
+C0716,FICO8,737,2025-10-05,Recent delinquency; new account
+C0716,VantageScore4,576,2025-10-05,Recent inquiry; utilization moderate
+C0717,FICO8,693,2025-10-05,Collections and recent delinquencies
+C0717,VantageScore4,519,2025-10-05,Recent inquiry; utilization moderate
+C0718,FICO8,547,2025-10-05,Low utilization; long history
+C0718,VantageScore4,725,2025-10-05,Short history; high utilization
+C0719,FICO8,639,2025-10-05,Short history; high utilization
+C0719,VantageScore4,551,2025-10-05,Collections and recent delinquencies
+C0720,FICO8,785,2025-10-05,Short history; high utilization
+C0720,VantageScore4,568,2025-10-05,Multiple inquiries; elevated balances
+C0721,FICO8,494,2025-10-05,Recent inquiry; utilization moderate
+C0721,VantageScore4,593,2025-10-05,High utilization; short history
+C0722,FICO8,552,2025-10-05,Recent delinquency; new account
+C0722,VantageScore4,637,2025-10-05,High utilization; short history
+C0723,FICO8,587,2025-10-05,High utilization; short history
+C0723,VantageScore4,520,2025-10-05,Delinquencies in past 24 months
+C0724,FICO8,537,2025-10-05,Recent inquiry; utilization moderate
+C0724,VantageScore4,489,2025-10-05,Collections and recent delinquencies
+C0725,FICO8,700,2025-10-05,Low utilization; long history
+C0725,VantageScore4,580,2025-10-05,Recent inquiry; utilization moderate
+C0726,FICO8,496,2025-10-05,Low utilization; long history
+C0726,VantageScore4,720,2025-10-05,Recent inquiry; utilization moderate
+C0727,FICO8,609,2025-10-05,Low utilization; long history
+C0727,VantageScore4,513,2025-10-05,Multiple inquiries; elevated balances
+C0728,FICO8,485,2025-10-05,Recent inquiry; utilization moderate
+C0728,VantageScore4,543,2025-10-05,Recent delinquency; new account
+C0729,FICO8,780,2025-10-05,Recent delinquency; new account
+C0729,VantageScore4,574,2025-10-05,Short history; high utilization
+C0730,FICO8,494,2025-10-05,Recent inquiry; utilization moderate
+C0730,VantageScore4,554,2025-10-05,Multiple inquiries; elevated balances
+C0731,FICO8,776,2025-10-05,Short history; high utilization
+C0731,VantageScore4,660,2025-10-05,High utilization; short history
+C0732,FICO8,736,2025-10-05,Recent delinquency; new account
+C0732,VantageScore4,738,2025-10-05,Recent inquiry; utilization moderate
+C0733,FICO8,530,2025-10-05,Low utilization; long history
+C0733,VantageScore4,750,2025-10-05,Recent delinquency; new account
+C0734,FICO8,578,2025-10-05,Multiple inquiries; elevated balances
+C0734,VantageScore4,567,2025-10-05,Low utilization; long history
+C0735,FICO8,530,2025-10-05,Recent delinquency; new account
+C0735,VantageScore4,738,2025-10-05,Collections and recent delinquencies
+C0736,FICO8,667,2025-10-05,High utilization; short history
+C0736,VantageScore4,705,2025-10-05,Recent inquiry; utilization moderate
+C0737,FICO8,572,2025-10-05,Short history; high utilization
+C0737,VantageScore4,674,2025-10-05,Delinquencies in past 24 months
+C0738,FICO8,589,2025-10-05,Recent delinquency; new account
+C0738,VantageScore4,688,2025-10-05,Recent inquiry; utilization moderate
+C0739,FICO8,640,2025-10-05,Recent inquiry; utilization moderate
+C0739,VantageScore4,718,2025-10-05,Recent inquiry; utilization moderate
+C0740,FICO8,746,2025-10-05,High utilization; short history
+C0740,VantageScore4,733,2025-10-05,Short history; high utilization
+C0741,FICO8,627,2025-10-05,Low utilization; long history
+C0741,VantageScore4,522,2025-10-05,Short history; high utilization
+C0742,FICO8,732,2025-10-05,Recent inquiry; utilization moderate
+C0742,VantageScore4,677,2025-10-05,Multiple inquiries; elevated balances
+C0743,FICO8,713,2025-10-05,Multiple inquiries; elevated balances
+C0743,VantageScore4,707,2025-10-05,Recent delinquency; new account
+C0744,FICO8,763,2025-10-05,Delinquencies in past 24 months
+C0744,VantageScore4,628,2025-10-05,Delinquencies in past 24 months
+C0745,FICO8,576,2025-10-05,Recent inquiry; utilization moderate
+C0745,VantageScore4,723,2025-10-05,Short history; high utilization
+C0746,FICO8,571,2025-10-05,Low utilization; long history
+C0746,VantageScore4,731,2025-10-05,Recent inquiry; utilization moderate
+C0747,FICO8,682,2025-10-05,Collections and recent delinquencies
+C0747,VantageScore4,747,2025-10-05,Recent inquiry; utilization moderate
+C0748,FICO8,541,2025-10-05,High utilization; short history
+C0748,VantageScore4,682,2025-10-05,Delinquencies in past 24 months
+C0749,FICO8,782,2025-10-05,Recent inquiry; utilization moderate
+C0749,VantageScore4,566,2025-10-05,Recent inquiry; utilization moderate
+C0750,FICO8,666,2025-10-05,Recent delinquency; new account
+C0750,VantageScore4,653,2025-10-05,Recent delinquency; new account
+C0751,FICO8,784,2025-10-05,Delinquencies in past 24 months
+C0751,VantageScore4,542,2025-10-05,Recent delinquency; new account
+C0752,FICO8,697,2025-10-05,Collections and recent delinquencies
+C0752,VantageScore4,622,2025-10-05,Multiple inquiries; elevated balances
+C0753,FICO8,684,2025-10-05,Short history; high utilization
+C0753,VantageScore4,723,2025-10-05,Delinquencies in past 24 months
+C0754,FICO8,728,2025-10-05,Multiple inquiries; elevated balances
+C0754,VantageScore4,555,2025-10-05,Collections and recent delinquencies
+C0755,FICO8,535,2025-10-05,Recent inquiry; utilization moderate
+C0755,VantageScore4,608,2025-10-05,Collections and recent delinquencies
+C0756,FICO8,734,2025-10-05,Recent delinquency; new account
+C0756,VantageScore4,548,2025-10-05,Low utilization; long history
+C0757,FICO8,530,2025-10-05,Low utilization; long history
+C0757,VantageScore4,514,2025-10-05,Collections and recent delinquencies
+C0758,FICO8,493,2025-10-05,High utilization; short history
+C0758,VantageScore4,675,2025-10-05,Short history; high utilization
+C0759,FICO8,558,2025-10-05,Multiple inquiries; elevated balances
+C0759,VantageScore4,798,2025-10-05,Recent inquiry; utilization moderate
+C0760,FICO8,519,2025-10-05,Collections and recent delinquencies
+C0760,VantageScore4,718,2025-10-05,Recent delinquency; new account
+C0761,FICO8,630,2025-10-05,Collections and recent delinquencies
+C0761,VantageScore4,731,2025-10-05,Multiple inquiries; elevated balances
+C0762,FICO8,757,2025-10-05,Short history; high utilization
+C0762,VantageScore4,756,2025-10-05,Low utilization; long history
+C0763,FICO8,496,2025-10-05,Delinquencies in past 24 months
+C0763,VantageScore4,540,2025-10-05,Delinquencies in past 24 months
+C0764,FICO8,710,2025-10-05,Short history; high utilization
+C0764,VantageScore4,672,2025-10-05,Collections and recent delinquencies
+C0765,FICO8,715,2025-10-05,Low utilization; long history
+C0765,VantageScore4,496,2025-10-05,High utilization; short history
+C0766,FICO8,765,2025-10-05,Multiple inquiries; elevated balances
+C0766,VantageScore4,564,2025-10-05,Collections and recent delinquencies
+C0767,FICO8,700,2025-10-05,High utilization; short history
+C0767,VantageScore4,639,2025-10-05,Delinquencies in past 24 months
+C0768,FICO8,729,2025-10-05,Recent inquiry; utilization moderate
+C0768,VantageScore4,771,2025-10-05,Collections and recent delinquencies
+C0769,FICO8,763,2025-10-05,Collections and recent delinquencies
+C0769,VantageScore4,723,2025-10-05,High utilization; short history
+C0770,FICO8,739,2025-10-05,Low utilization; long history
+C0770,VantageScore4,680,2025-10-05,Multiple inquiries; elevated balances
+C0771,FICO8,733,2025-10-05,Delinquencies in past 24 months
+C0771,VantageScore4,795,2025-10-05,Short history; high utilization
+C0772,FICO8,625,2025-10-05,Short history; high utilization
+C0772,VantageScore4,511,2025-10-05,Low utilization; long history
+C0773,FICO8,782,2025-10-05,Low utilization; long history
+C0773,VantageScore4,545,2025-10-05,Short history; high utilization
+C0774,FICO8,658,2025-10-05,Low utilization; long history
+C0774,VantageScore4,800,2025-10-05,Short history; high utilization
+C0775,FICO8,674,2025-10-05,Recent inquiry; utilization moderate
+C0775,VantageScore4,699,2025-10-05,Short history; high utilization
+C0776,FICO8,662,2025-10-05,Delinquencies in past 24 months
+C0776,VantageScore4,659,2025-10-05,Low utilization; long history
+C0777,FICO8,605,2025-10-05,Recent delinquency; new account
+C0777,VantageScore4,600,2025-10-05,Multiple inquiries; elevated balances
+C0778,FICO8,783,2025-10-05,Recent inquiry; utilization moderate
+C0778,VantageScore4,513,2025-10-05,Multiple inquiries; elevated balances
+C0779,FICO8,538,2025-10-05,Short history; high utilization
+C0779,VantageScore4,566,2025-10-05,Low utilization; long history
+C0780,FICO8,755,2025-10-05,Short history; high utilization
+C0780,VantageScore4,499,2025-10-05,Collections and recent delinquencies
+C0781,FICO8,696,2025-10-05,Delinquencies in past 24 months
+C0781,VantageScore4,616,2025-10-05,Low utilization; long history
+C0782,FICO8,720,2025-10-05,Low utilization; long history
+C0782,VantageScore4,642,2025-10-05,Delinquencies in past 24 months
+C0783,FICO8,772,2025-10-05,Delinquencies in past 24 months
+C0783,VantageScore4,645,2025-10-05,Recent inquiry; utilization moderate
+C0784,FICO8,730,2025-10-05,Recent inquiry; utilization moderate
+C0784,VantageScore4,585,2025-10-05,Short history; high utilization
+C0785,FICO8,734,2025-10-05,Short history; high utilization
+C0785,VantageScore4,565,2025-10-05,Multiple inquiries; elevated balances
+C0786,FICO8,666,2025-10-05,Delinquencies in past 24 months
+C0786,VantageScore4,583,2025-10-05,Collections and recent delinquencies
+C0787,FICO8,518,2025-10-05,Recent delinquency; new account
+C0787,VantageScore4,627,2025-10-05,Multiple inquiries; elevated balances
+C0788,FICO8,504,2025-10-05,Multiple inquiries; elevated balances
+C0788,VantageScore4,773,2025-10-05,Delinquencies in past 24 months
+C0789,FICO8,595,2025-10-05,Recent inquiry; utilization moderate
+C0789,VantageScore4,776,2025-10-05,Recent inquiry; utilization moderate
+C0790,FICO8,783,2025-10-05,Short history; high utilization
+C0790,VantageScore4,619,2025-10-05,Recent inquiry; utilization moderate
+C0791,FICO8,770,2025-10-05,Collections and recent delinquencies
+C0791,VantageScore4,698,2025-10-05,Recent delinquency; new account
+C0792,FICO8,657,2025-10-05,Recent inquiry; utilization moderate
+C0792,VantageScore4,634,2025-10-05,Multiple inquiries; elevated balances
+C0793,FICO8,701,2025-10-05,Short history; high utilization
+C0793,VantageScore4,582,2025-10-05,Delinquencies in past 24 months
+C0794,FICO8,685,2025-10-05,Multiple inquiries; elevated balances
+C0794,VantageScore4,799,2025-10-05,Collections and recent delinquencies
+C0795,FICO8,760,2025-10-05,High utilization; short history
+C0795,VantageScore4,489,2025-10-05,High utilization; short history
+C0796,FICO8,775,2025-10-05,Collections and recent delinquencies
+C0796,VantageScore4,589,2025-10-05,Collections and recent delinquencies
+C0797,FICO8,617,2025-10-05,Delinquencies in past 24 months
+C0797,VantageScore4,769,2025-10-05,Low utilization; long history
+C0798,FICO8,747,2025-10-05,Recent delinquency; new account
+C0798,VantageScore4,666,2025-10-05,Collections and recent delinquencies
+C0799,FICO8,555,2025-10-05,Recent delinquency; new account
+C0799,VantageScore4,557,2025-10-05,Multiple inquiries; elevated balances
+C0800,FICO8,702,2025-10-05,Delinquencies in past 24 months
+C0800,VantageScore4,643,2025-10-05,Recent inquiry; utilization moderate
+C0801,FICO8,584,2025-10-05,Delinquencies in past 24 months
+C0801,VantageScore4,616,2025-10-05,Multiple inquiries; elevated balances
+C0802,FICO8,562,2025-10-05,Multiple inquiries; elevated balances
+C0802,VantageScore4,787,2025-10-05,Recent delinquency; new account
+C0803,FICO8,687,2025-10-05,Recent delinquency; new account
+C0803,VantageScore4,538,2025-10-05,High utilization; short history
+C0804,FICO8,578,2025-10-05,Low utilization; long history
+C0804,VantageScore4,605,2025-10-05,Multiple inquiries; elevated balances
+C0805,FICO8,717,2025-10-05,Collections and recent delinquencies
+C0805,VantageScore4,766,2025-10-05,Delinquencies in past 24 months
+C0806,FICO8,696,2025-10-05,Low utilization; long history
+C0806,VantageScore4,583,2025-10-05,High utilization; short history
+C0807,FICO8,619,2025-10-05,High utilization; short history
+C0807,VantageScore4,494,2025-10-05,Multiple inquiries; elevated balances
+C0808,FICO8,622,2025-10-05,High utilization; short history
+C0808,VantageScore4,501,2025-10-05,Collections and recent delinquencies
+C0809,FICO8,490,2025-10-05,Low utilization; long history
+C0809,VantageScore4,522,2025-10-05,Short history; high utilization
+C0810,FICO8,788,2025-10-05,Multiple inquiries; elevated balances
+C0810,VantageScore4,512,2025-10-05,Delinquencies in past 24 months
+C0811,FICO8,666,2025-10-05,Recent inquiry; utilization moderate
+C0811,VantageScore4,683,2025-10-05,High utilization; short history
+C0812,FICO8,600,2025-10-05,Recent inquiry; utilization moderate
+C0812,VantageScore4,772,2025-10-05,Recent inquiry; utilization moderate
+C0813,FICO8,747,2025-10-05,Multiple inquiries; elevated balances
+C0813,VantageScore4,734,2025-10-05,Recent inquiry; utilization moderate
+C0814,FICO8,601,2025-10-05,Recent inquiry; utilization moderate
+C0814,VantageScore4,640,2025-10-05,Short history; high utilization
+C0815,FICO8,779,2025-10-05,Delinquencies in past 24 months
+C0815,VantageScore4,600,2025-10-05,Delinquencies in past 24 months
+C0816,FICO8,591,2025-10-05,High utilization; short history
+C0816,VantageScore4,534,2025-10-05,High utilization; short history
+C0817,FICO8,589,2025-10-05,Multiple inquiries; elevated balances
+C0817,VantageScore4,705,2025-10-05,Delinquencies in past 24 months
+C0818,FICO8,610,2025-10-05,Low utilization; long history
+C0818,VantageScore4,731,2025-10-05,Short history; high utilization
+C0819,FICO8,537,2025-10-05,Short history; high utilization
+C0819,VantageScore4,759,2025-10-05,Delinquencies in past 24 months
+C0820,FICO8,723,2025-10-05,Recent delinquency; new account
+C0820,VantageScore4,622,2025-10-05,High utilization; short history
+C0821,FICO8,665,2025-10-05,Collections and recent delinquencies
+C0821,VantageScore4,668,2025-10-05,Multiple inquiries; elevated balances
+C0822,FICO8,490,2025-10-05,Low utilization; long history
+C0822,VantageScore4,507,2025-10-05,Recent delinquency; new account
+C0823,FICO8,609,2025-10-05,Delinquencies in past 24 months
+C0823,VantageScore4,638,2025-10-05,Short history; high utilization
+C0824,FICO8,542,2025-10-05,Recent delinquency; new account
+C0824,VantageScore4,706,2025-10-05,Delinquencies in past 24 months
+C0825,FICO8,484,2025-10-05,Delinquencies in past 24 months
+C0825,VantageScore4,610,2025-10-05,Multiple inquiries; elevated balances
+C0826,FICO8,526,2025-10-05,Recent delinquency; new account
+C0826,VantageScore4,632,2025-10-05,Recent delinquency; new account
+C0827,FICO8,562,2025-10-05,Collections and recent delinquencies
+C0827,VantageScore4,642,2025-10-05,Delinquencies in past 24 months
+C0828,FICO8,497,2025-10-05,Multiple inquiries; elevated balances
+C0828,VantageScore4,521,2025-10-05,Collections and recent delinquencies
+C0829,FICO8,721,2025-10-05,Delinquencies in past 24 months
+C0829,VantageScore4,650,2025-10-05,Delinquencies in past 24 months
+C0830,FICO8,531,2025-10-05,High utilization; short history
+C0830,VantageScore4,613,2025-10-05,Recent inquiry; utilization moderate
+C0831,FICO8,660,2025-10-05,Delinquencies in past 24 months
+C0831,VantageScore4,788,2025-10-05,Short history; high utilization
+C0832,FICO8,712,2025-10-05,Low utilization; long history
+C0832,VantageScore4,506,2025-10-05,High utilization; short history
+C0833,FICO8,707,2025-10-05,High utilization; short history
+C0833,VantageScore4,481,2025-10-05,Delinquencies in past 24 months
+C0834,FICO8,582,2025-10-05,Multiple inquiries; elevated balances
+C0834,VantageScore4,640,2025-10-05,Recent inquiry; utilization moderate
+C0835,FICO8,536,2025-10-05,High utilization; short history
+C0835,VantageScore4,607,2025-10-05,High utilization; short history
+C0836,FICO8,784,2025-10-05,Delinquencies in past 24 months
+C0836,VantageScore4,643,2025-10-05,Collections and recent delinquencies
+C0837,FICO8,724,2025-10-05,High utilization; short history
+C0837,VantageScore4,613,2025-10-05,High utilization; short history
+C0838,FICO8,783,2025-10-05,Short history; high utilization
+C0838,VantageScore4,624,2025-10-05,Recent delinquency; new account
+C0839,FICO8,523,2025-10-05,Delinquencies in past 24 months
+C0839,VantageScore4,668,2025-10-05,High utilization; short history
+C0840,FICO8,681,2025-10-05,Delinquencies in past 24 months
+C0840,VantageScore4,772,2025-10-05,Recent delinquency; new account
+C0841,FICO8,490,2025-10-05,Low utilization; long history
+C0841,VantageScore4,765,2025-10-05,Recent delinquency; new account
+C0842,FICO8,525,2025-10-05,Collections and recent delinquencies
+C0842,VantageScore4,581,2025-10-05,Multiple inquiries; elevated balances
+C0843,FICO8,566,2025-10-05,Low utilization; long history
+C0843,VantageScore4,685,2025-10-05,Delinquencies in past 24 months
+C0844,FICO8,787,2025-10-05,Multiple inquiries; elevated balances
+C0844,VantageScore4,556,2025-10-05,Recent inquiry; utilization moderate
+C0845,FICO8,668,2025-10-05,High utilization; short history
+C0845,VantageScore4,770,2025-10-05,Recent inquiry; utilization moderate
+C0846,FICO8,487,2025-10-05,Delinquencies in past 24 months
+C0846,VantageScore4,712,2025-10-05,Collections and recent delinquencies
+C0847,FICO8,540,2025-10-05,Recent delinquency; new account
+C0847,VantageScore4,584,2025-10-05,Recent delinquency; new account
+C0848,FICO8,616,2025-10-05,Multiple inquiries; elevated balances
+C0848,VantageScore4,733,2025-10-05,Delinquencies in past 24 months
+C0849,FICO8,546,2025-10-05,Delinquencies in past 24 months
+C0849,VantageScore4,585,2025-10-05,Recent delinquency; new account
+C0850,FICO8,624,2025-10-05,Recent delinquency; new account
+C0850,VantageScore4,694,2025-10-05,High utilization; short history
+C0851,FICO8,689,2025-10-05,High utilization; short history
+C0851,VantageScore4,494,2025-10-05,Multiple inquiries; elevated balances
+C0852,FICO8,614,2025-10-05,Recent delinquency; new account
+C0852,VantageScore4,796,2025-10-05,Collections and recent delinquencies
+C0853,FICO8,607,2025-10-05,Short history; high utilization
+C0853,VantageScore4,778,2025-10-05,Collections and recent delinquencies
+C0854,FICO8,523,2025-10-05,Low utilization; long history
+C0854,VantageScore4,720,2025-10-05,High utilization; short history
+C0855,FICO8,645,2025-10-05,Delinquencies in past 24 months
+C0855,VantageScore4,588,2025-10-05,Delinquencies in past 24 months
+C0856,FICO8,696,2025-10-05,Multiple inquiries; elevated balances
+C0856,VantageScore4,517,2025-10-05,Recent inquiry; utilization moderate
+C0857,FICO8,765,2025-10-05,Low utilization; long history
+C0857,VantageScore4,506,2025-10-05,Short history; high utilization
+C0858,FICO8,600,2025-10-05,Collections and recent delinquencies
+C0858,VantageScore4,661,2025-10-05,Low utilization; long history
+C0859,FICO8,482,2025-10-05,Multiple inquiries; elevated balances
+C0859,VantageScore4,738,2025-10-05,Delinquencies in past 24 months
+C0860,FICO8,634,2025-10-05,Delinquencies in past 24 months
+C0860,VantageScore4,669,2025-10-05,High utilization; short history
+C0861,FICO8,766,2025-10-05,Low utilization; long history
+C0861,VantageScore4,777,2025-10-05,High utilization; short history
+C0862,FICO8,613,2025-10-05,High utilization; short history
+C0862,VantageScore4,737,2025-10-05,Collections and recent delinquencies
+C0863,FICO8,653,2025-10-05,Collections and recent delinquencies
+C0863,VantageScore4,547,2025-10-05,Recent inquiry; utilization moderate
+C0864,FICO8,642,2025-10-05,Delinquencies in past 24 months
+C0864,VantageScore4,552,2025-10-05,Multiple inquiries; elevated balances
+C0865,FICO8,539,2025-10-05,Short history; high utilization
+C0865,VantageScore4,502,2025-10-05,High utilization; short history
+C0866,FICO8,735,2025-10-05,Multiple inquiries; elevated balances
+C0866,VantageScore4,664,2025-10-05,Delinquencies in past 24 months
+C0867,FICO8,624,2025-10-05,Multiple inquiries; elevated balances
+C0867,VantageScore4,793,2025-10-05,Multiple inquiries; elevated balances
+C0868,FICO8,744,2025-10-05,Short history; high utilization
+C0868,VantageScore4,703,2025-10-05,High utilization; short history
+C0869,FICO8,641,2025-10-05,Collections and recent delinquencies
+C0869,VantageScore4,557,2025-10-05,Collections and recent delinquencies
+C0870,FICO8,507,2025-10-05,Recent delinquency; new account
+C0870,VantageScore4,556,2025-10-05,Low utilization; long history
+C0871,FICO8,597,2025-10-05,High utilization; short history
+C0871,VantageScore4,498,2025-10-05,Collections and recent delinquencies
+C0872,FICO8,613,2025-10-05,High utilization; short history
+C0872,VantageScore4,719,2025-10-05,Delinquencies in past 24 months
+C0873,FICO8,539,2025-10-05,Collections and recent delinquencies
+C0873,VantageScore4,500,2025-10-05,Collections and recent delinquencies
+C0874,FICO8,662,2025-10-05,Collections and recent delinquencies
+C0874,VantageScore4,714,2025-10-05,Collections and recent delinquencies
+C0875,FICO8,537,2025-10-05,High utilization; short history
+C0875,VantageScore4,543,2025-10-05,Short history; high utilization
+C0876,FICO8,527,2025-10-05,Recent delinquency; new account
+C0876,VantageScore4,625,2025-10-05,High utilization; short history
+C0877,FICO8,566,2025-10-05,Multiple inquiries; elevated balances
+C0877,VantageScore4,768,2025-10-05,Recent delinquency; new account
+C0878,FICO8,778,2025-10-05,Low utilization; long history
+C0878,VantageScore4,749,2025-10-05,High utilization; short history
+C0879,FICO8,693,2025-10-05,Recent inquiry; utilization moderate
+C0879,VantageScore4,606,2025-10-05,Collections and recent delinquencies
+C0880,FICO8,528,2025-10-05,Short history; high utilization
+C0880,VantageScore4,493,2025-10-05,Multiple inquiries; elevated balances
+C0881,FICO8,542,2025-10-05,Delinquencies in past 24 months
+C0881,VantageScore4,671,2025-10-05,Recent inquiry; utilization moderate
+C0882,FICO8,645,2025-10-05,High utilization; short history
+C0882,VantageScore4,494,2025-10-05,Recent inquiry; utilization moderate
+C0883,FICO8,715,2025-10-05,Collections and recent delinquencies
+C0883,VantageScore4,712,2025-10-05,Multiple inquiries; elevated balances
+C0884,FICO8,784,2025-10-05,Low utilization; long history
+C0884,VantageScore4,648,2025-10-05,Low utilization; long history
+C0885,FICO8,798,2025-10-05,Collections and recent delinquencies
+C0885,VantageScore4,646,2025-10-05,High utilization; short history
+C0886,FICO8,588,2025-10-05,Low utilization; long history
+C0886,VantageScore4,624,2025-10-05,Short history; high utilization
+C0887,FICO8,508,2025-10-05,Recent inquiry; utilization moderate
+C0887,VantageScore4,760,2025-10-05,Delinquencies in past 24 months
+C0888,FICO8,527,2025-10-05,Delinquencies in past 24 months
+C0888,VantageScore4,610,2025-10-05,High utilization; short history
+C0889,FICO8,602,2025-10-05,Delinquencies in past 24 months
+C0889,VantageScore4,525,2025-10-05,Low utilization; long history
+C0890,FICO8,586,2025-10-05,High utilization; short history
+C0890,VantageScore4,678,2025-10-05,Delinquencies in past 24 months
+C0891,FICO8,625,2025-10-05,High utilization; short history
+C0891,VantageScore4,541,2025-10-05,Multiple inquiries; elevated balances
+C0892,FICO8,731,2025-10-05,Delinquencies in past 24 months
+C0892,VantageScore4,638,2025-10-05,High utilization; short history
+C0893,FICO8,663,2025-10-05,Recent inquiry; utilization moderate
+C0893,VantageScore4,668,2025-10-05,Recent delinquency; new account
+C0894,FICO8,730,2025-10-05,Collections and recent delinquencies
+C0894,VantageScore4,678,2025-10-05,Collections and recent delinquencies
+C0895,FICO8,617,2025-10-05,Delinquencies in past 24 months
+C0895,VantageScore4,526,2025-10-05,Delinquencies in past 24 months
+C0896,FICO8,668,2025-10-05,High utilization; short history
+C0896,VantageScore4,702,2025-10-05,Delinquencies in past 24 months
+C0897,FICO8,527,2025-10-05,Low utilization; long history
+C0897,VantageScore4,742,2025-10-05,Short history; high utilization
+C0898,FICO8,717,2025-10-05,Recent delinquency; new account
+C0898,VantageScore4,559,2025-10-05,Collections and recent delinquencies
+C0899,FICO8,749,2025-10-05,Recent inquiry; utilization moderate
+C0899,VantageScore4,628,2025-10-05,Collections and recent delinquencies
+C0900,FICO8,703,2025-10-05,Recent inquiry; utilization moderate
+C0900,VantageScore4,724,2025-10-05,Multiple inquiries; elevated balances
+C0901,FICO8,556,2025-10-05,High utilization; short history
+C0901,VantageScore4,633,2025-10-05,Recent delinquency; new account
+C0902,FICO8,747,2025-10-05,Delinquencies in past 24 months
+C0902,VantageScore4,631,2025-10-05,Low utilization; long history
+C0903,FICO8,762,2025-10-05,Recent inquiry; utilization moderate
+C0903,VantageScore4,503,2025-10-05,Recent inquiry; utilization moderate
+C0904,FICO8,741,2025-10-05,Delinquencies in past 24 months
+C0904,VantageScore4,691,2025-10-05,Recent inquiry; utilization moderate
+C0905,FICO8,717,2025-10-05,Multiple inquiries; elevated balances
+C0905,VantageScore4,661,2025-10-05,Multiple inquiries; elevated balances
+C0906,FICO8,779,2025-10-05,Recent inquiry; utilization moderate
+C0906,VantageScore4,737,2025-10-05,Low utilization; long history
+C0907,FICO8,538,2025-10-05,Collections and recent delinquencies
+C0907,VantageScore4,571,2025-10-05,High utilization; short history
+C0908,FICO8,681,2025-10-05,Low utilization; long history
+C0908,VantageScore4,522,2025-10-05,Delinquencies in past 24 months
+C0909,FICO8,632,2025-10-05,Short history; high utilization
+C0909,VantageScore4,780,2025-10-05,Collections and recent delinquencies
+C0910,FICO8,710,2025-10-05,Multiple inquiries; elevated balances
+C0910,VantageScore4,654,2025-10-05,High utilization; short history
+C0911,FICO8,588,2025-10-05,High utilization; short history
+C0911,VantageScore4,520,2025-10-05,Multiple inquiries; elevated balances
+C0912,FICO8,534,2025-10-05,Delinquencies in past 24 months
+C0912,VantageScore4,753,2025-10-05,Low utilization; long history
+C0913,FICO8,482,2025-10-05,Delinquencies in past 24 months
+C0913,VantageScore4,539,2025-10-05,Low utilization; long history
+C0914,FICO8,567,2025-10-05,Collections and recent delinquencies
+C0914,VantageScore4,715,2025-10-05,Delinquencies in past 24 months
+C0915,FICO8,788,2025-10-05,Collections and recent delinquencies
+C0915,VantageScore4,635,2025-10-05,Short history; high utilization
+C0916,FICO8,682,2025-10-05,Multiple inquiries; elevated balances
+C0916,VantageScore4,524,2025-10-05,High utilization; short history
+C0917,FICO8,549,2025-10-05,Low utilization; long history
+C0917,VantageScore4,577,2025-10-05,Recent inquiry; utilization moderate
+C0918,FICO8,488,2025-10-05,Recent delinquency; new account
+C0918,VantageScore4,493,2025-10-05,Recent delinquency; new account
+C0919,FICO8,726,2025-10-05,High utilization; short history
+C0919,VantageScore4,603,2025-10-05,Delinquencies in past 24 months
+C0920,FICO8,800,2025-10-05,Recent delinquency; new account
+C0920,VantageScore4,524,2025-10-05,Multiple inquiries; elevated balances
+C0921,FICO8,717,2025-10-05,High utilization; short history
+C0921,VantageScore4,722,2025-10-05,Delinquencies in past 24 months
+C0922,FICO8,491,2025-10-05,Recent inquiry; utilization moderate
+C0922,VantageScore4,565,2025-10-05,High utilization; short history
+C0923,FICO8,707,2025-10-05,Collections and recent delinquencies
+C0923,VantageScore4,721,2025-10-05,Low utilization; long history
+C0924,FICO8,710,2025-10-05,Recent delinquency; new account
+C0924,VantageScore4,583,2025-10-05,Multiple inquiries; elevated balances
+C0925,FICO8,771,2025-10-05,Delinquencies in past 24 months
+C0925,VantageScore4,506,2025-10-05,Short history; high utilization
+C0926,FICO8,484,2025-10-05,Recent inquiry; utilization moderate
+C0926,VantageScore4,701,2025-10-05,Delinquencies in past 24 months
+C0927,FICO8,733,2025-10-05,Multiple inquiries; elevated balances
+C0927,VantageScore4,498,2025-10-05,Collections and recent delinquencies
+C0928,FICO8,684,2025-10-05,Collections and recent delinquencies
+C0928,VantageScore4,742,2025-10-05,Collections and recent delinquencies
+C0929,FICO8,598,2025-10-05,Low utilization; long history
+C0929,VantageScore4,750,2025-10-05,Low utilization; long history
+C0930,FICO8,696,2025-10-05,Short history; high utilization
+C0930,VantageScore4,763,2025-10-05,Recent inquiry; utilization moderate
+C0931,FICO8,617,2025-10-05,Delinquencies in past 24 months
+C0931,VantageScore4,722,2025-10-05,Recent inquiry; utilization moderate
+C0932,FICO8,733,2025-10-05,Short history; high utilization
+C0932,VantageScore4,709,2025-10-05,Delinquencies in past 24 months
+C0933,FICO8,490,2025-10-05,High utilization; short history
+C0933,VantageScore4,627,2025-10-05,Recent delinquency; new account
+C0934,FICO8,720,2025-10-05,Short history; high utilization
+C0934,VantageScore4,704,2025-10-05,Recent delinquency; new account
+C0935,FICO8,739,2025-10-05,Recent delinquency; new account
+C0935,VantageScore4,780,2025-10-05,Short history; high utilization
+C0936,FICO8,788,2025-10-05,Collections and recent delinquencies
+C0936,VantageScore4,547,2025-10-05,Multiple inquiries; elevated balances
+C0937,FICO8,679,2025-10-05,Delinquencies in past 24 months
+C0937,VantageScore4,664,2025-10-05,Collections and recent delinquencies
+C0938,FICO8,562,2025-10-05,Recent delinquency; new account
+C0938,VantageScore4,624,2025-10-05,Recent inquiry; utilization moderate
+C0939,FICO8,727,2025-10-05,High utilization; short history
+C0939,VantageScore4,568,2025-10-05,Recent delinquency; new account
+C0940,FICO8,560,2025-10-05,Collections and recent delinquencies
+C0940,VantageScore4,531,2025-10-05,Delinquencies in past 24 months
+C0941,FICO8,732,2025-10-05,Multiple inquiries; elevated balances
+C0941,VantageScore4,600,2025-10-05,Recent delinquency; new account
+C0942,FICO8,765,2025-10-05,Low utilization; long history
+C0942,VantageScore4,489,2025-10-05,Short history; high utilization
+C0943,FICO8,613,2025-10-05,Short history; high utilization
+C0943,VantageScore4,561,2025-10-05,High utilization; short history
+C0944,FICO8,737,2025-10-05,Low utilization; long history
+C0944,VantageScore4,512,2025-10-05,Short history; high utilization
+C0945,FICO8,700,2025-10-05,Recent inquiry; utilization moderate
+C0945,VantageScore4,796,2025-10-05,Recent delinquency; new account
+C0946,FICO8,541,2025-10-05,Recent delinquency; new account
+C0946,VantageScore4,729,2025-10-05,Multiple inquiries; elevated balances
+C0947,FICO8,654,2025-10-05,Short history; high utilization
+C0947,VantageScore4,503,2025-10-05,Multiple inquiries; elevated balances
+C0948,FICO8,557,2025-10-05,Recent inquiry; utilization moderate
+C0948,VantageScore4,505,2025-10-05,Collections and recent delinquencies
+C0949,FICO8,714,2025-10-05,Recent inquiry; utilization moderate
+C0949,VantageScore4,534,2025-10-05,Recent inquiry; utilization moderate
+C0950,FICO8,767,2025-10-05,Low utilization; long history
+C0950,VantageScore4,739,2025-10-05,Recent inquiry; utilization moderate
+C0951,FICO8,565,2025-10-05,Recent inquiry; utilization moderate
+C0951,VantageScore4,585,2025-10-05,Short history; high utilization
+C0952,FICO8,560,2025-10-05,Multiple inquiries; elevated balances
+C0952,VantageScore4,706,2025-10-05,Collections and recent delinquencies
+C0953,FICO8,530,2025-10-05,High utilization; short history
+C0953,VantageScore4,666,2025-10-05,Short history; high utilization
+C0954,FICO8,550,2025-10-05,Recent inquiry; utilization moderate
+C0954,VantageScore4,583,2025-10-05,Collections and recent delinquencies
+C0955,FICO8,692,2025-10-05,Low utilization; long history
+C0955,VantageScore4,605,2025-10-05,Collections and recent delinquencies
+C0956,FICO8,654,2025-10-05,Multiple inquiries; elevated balances
+C0956,VantageScore4,738,2025-10-05,High utilization; short history
+C0957,FICO8,523,2025-10-05,Multiple inquiries; elevated balances
+C0957,VantageScore4,670,2025-10-05,Delinquencies in past 24 months
+C0958,FICO8,664,2025-10-05,Recent delinquency; new account
+C0958,VantageScore4,557,2025-10-05,Delinquencies in past 24 months
+C0959,FICO8,596,2025-10-05,High utilization; short history
+C0959,VantageScore4,699,2025-10-05,Delinquencies in past 24 months
+C0960,FICO8,689,2025-10-05,Collections and recent delinquencies
+C0960,VantageScore4,744,2025-10-05,Short history; high utilization
+C0961,FICO8,495,2025-10-05,Collections and recent delinquencies
+C0961,VantageScore4,554,2025-10-05,Low utilization; long history
+C0962,FICO8,744,2025-10-05,Recent inquiry; utilization moderate
+C0962,VantageScore4,523,2025-10-05,Short history; high utilization
+C0963,FICO8,641,2025-10-05,Delinquencies in past 24 months
+C0963,VantageScore4,564,2025-10-05,Delinquencies in past 24 months
+C0964,FICO8,511,2025-10-05,Delinquencies in past 24 months
+C0964,VantageScore4,498,2025-10-05,High utilization; short history
+C0965,FICO8,774,2025-10-05,Low utilization; long history
+C0965,VantageScore4,746,2025-10-05,Multiple inquiries; elevated balances
+C0966,FICO8,694,2025-10-05,Delinquencies in past 24 months
+C0966,VantageScore4,763,2025-10-05,Multiple inquiries; elevated balances
+C0967,FICO8,640,2025-10-05,Short history; high utilization
+C0967,VantageScore4,484,2025-10-05,Multiple inquiries; elevated balances
+C0968,FICO8,750,2025-10-05,High utilization; short history
+C0968,VantageScore4,686,2025-10-05,Collections and recent delinquencies
+C0969,FICO8,585,2025-10-05,Collections and recent delinquencies
+C0969,VantageScore4,656,2025-10-05,Delinquencies in past 24 months
+C0970,FICO8,581,2025-10-05,Multiple inquiries; elevated balances
+C0970,VantageScore4,523,2025-10-05,Low utilization; long history
+C0971,FICO8,755,2025-10-05,Short history; high utilization
+C0971,VantageScore4,679,2025-10-05,High utilization; short history
+C0972,FICO8,746,2025-10-05,Multiple inquiries; elevated balances
+C0972,VantageScore4,589,2025-10-05,Recent inquiry; utilization moderate
+C0973,FICO8,741,2025-10-05,Multiple inquiries; elevated balances
+C0973,VantageScore4,746,2025-10-05,Short history; high utilization
+C0974,FICO8,561,2025-10-05,Low utilization; long history
+C0974,VantageScore4,494,2025-10-05,Multiple inquiries; elevated balances
+C0975,FICO8,603,2025-10-05,Multiple inquiries; elevated balances
+C0975,VantageScore4,696,2025-10-05,Recent inquiry; utilization moderate
+C0976,FICO8,510,2025-10-05,Short history; high utilization
+C0976,VantageScore4,612,2025-10-05,Short history; high utilization
+C0977,FICO8,543,2025-10-05,Low utilization; long history
+C0977,VantageScore4,543,2025-10-05,Collections and recent delinquencies
+C0978,FICO8,632,2025-10-05,Low utilization; long history
+C0978,VantageScore4,712,2025-10-05,Short history; high utilization
+C0979,FICO8,600,2025-10-05,Recent delinquency; new account
+C0979,VantageScore4,659,2025-10-05,Multiple inquiries; elevated balances
+C0980,FICO8,625,2025-10-05,High utilization; short history
+C0980,VantageScore4,673,2025-10-05,Recent delinquency; new account
+C0981,FICO8,533,2025-10-05,Short history; high utilization
+C0981,VantageScore4,744,2025-10-05,Recent delinquency; new account
+C0982,FICO8,664,2025-10-05,Collections and recent delinquencies
+C0982,VantageScore4,530,2025-10-05,High utilization; short history
+C0983,FICO8,697,2025-10-05,Delinquencies in past 24 months
+C0983,VantageScore4,521,2025-10-05,Recent inquiry; utilization moderate
+C0984,FICO8,511,2025-10-05,Delinquencies in past 24 months
+C0984,VantageScore4,546,2025-10-05,Collections and recent delinquencies
+C0985,FICO8,589,2025-10-05,Collections and recent delinquencies
+C0985,VantageScore4,519,2025-10-05,Short history; high utilization
+C0986,FICO8,749,2025-10-05,Delinquencies in past 24 months
+C0986,VantageScore4,781,2025-10-05,Delinquencies in past 24 months
+C0987,FICO8,615,2025-10-05,Collections and recent delinquencies
+C0987,VantageScore4,696,2025-10-05,Collections and recent delinquencies
+C0988,FICO8,730,2025-10-05,Delinquencies in past 24 months
+C0988,VantageScore4,563,2025-10-05,High utilization; short history
+C0989,FICO8,738,2025-10-05,High utilization; short history
+C0989,VantageScore4,728,2025-10-05,Collections and recent delinquencies
+C0990,FICO8,546,2025-10-05,Recent inquiry; utilization moderate
+C0990,VantageScore4,588,2025-10-05,Collections and recent delinquencies
+C0991,FICO8,722,2025-10-05,Low utilization; long history
+C0991,VantageScore4,560,2025-10-05,Short history; high utilization
+C0992,FICO8,540,2025-10-05,Delinquencies in past 24 months
+C0992,VantageScore4,536,2025-10-05,Recent inquiry; utilization moderate
+C0993,FICO8,669,2025-10-05,Multiple inquiries; elevated balances
+C0993,VantageScore4,500,2025-10-05,High utilization; short history
+C0994,FICO8,540,2025-10-05,Short history; high utilization
+C0994,VantageScore4,636,2025-10-05,Short history; high utilization
+C0995,FICO8,635,2025-10-05,Multiple inquiries; elevated balances
+C0995,VantageScore4,728,2025-10-05,Low utilization; long history
+C0996,FICO8,553,2025-10-05,High utilization; short history
+C0996,VantageScore4,781,2025-10-05,Delinquencies in past 24 months
+C0997,FICO8,504,2025-10-05,Multiple inquiries; elevated balances
+C0997,VantageScore4,625,2025-10-05,Recent delinquency; new account
+C0998,FICO8,573,2025-10-05,Collections and recent delinquencies
+C0998,VantageScore4,481,2025-10-05,Recent inquiry; utilization moderate
+C0999,FICO8,760,2025-10-05,Short history; high utilization
+C0999,VantageScore4,514,2025-10-05,Low utilization; long history
+C1000,FICO8,693,2025-10-05,Collections and recent delinquencies
+C1000,VantageScore4,773,2025-10-05,Multiple inquiries; elevated balances
+C1001,FICO8,769,2025-10-05,Collections and recent delinquencies
+C1001,VantageScore4,652,2025-10-05,Delinquencies in past 24 months
+C1002,FICO8,723,2025-10-05,High utilization; short history
+C1002,VantageScore4,550,2025-10-05,Collections and recent delinquencies
+C1003,FICO8,710,2025-10-05,Collections and recent delinquencies
+C1003,VantageScore4,556,2025-10-05,Short history; high utilization
+C1004,FICO8,525,2025-10-05,Delinquencies in past 24 months
+C1004,VantageScore4,678,2025-10-05,Recent delinquency; new account
+C1005,FICO8,682,2025-10-05,Short history; high utilization
+C1005,VantageScore4,756,2025-10-05,Low utilization; long history
+C1006,FICO8,706,2025-10-05,Multiple inquiries; elevated balances
+C1006,VantageScore4,525,2025-10-05,High utilization; short history
+C1007,FICO8,492,2025-10-05,Multiple inquiries; elevated balances
+C1007,VantageScore4,767,2025-10-05,Recent inquiry; utilization moderate
+C1008,FICO8,766,2025-10-05,Recent inquiry; utilization moderate
+C1008,VantageScore4,578,2025-10-05,Low utilization; long history
+C1009,FICO8,771,2025-10-05,Recent delinquency; new account
+C1009,VantageScore4,723,2025-10-05,Low utilization; long history
+C1010,FICO8,541,2025-10-05,High utilization; short history
+C1010,VantageScore4,489,2025-10-05,Multiple inquiries; elevated balances
+C1011,FICO8,585,2025-10-05,Recent delinquency; new account
+C1011,VantageScore4,776,2025-10-05,Collections and recent delinquencies
+C1012,FICO8,523,2025-10-05,Short history; high utilization
+C1012,VantageScore4,685,2025-10-05,Low utilization; long history
+C1013,FICO8,731,2025-10-05,Low utilization; long history
+C1013,VantageScore4,654,2025-10-05,Delinquencies in past 24 months
+C1014,FICO8,572,2025-10-05,Delinquencies in past 24 months
+C1014,VantageScore4,492,2025-10-05,Short history; high utilization
+C1015,FICO8,675,2025-10-05,Multiple inquiries; elevated balances
+C1015,VantageScore4,526,2025-10-05,Recent inquiry; utilization moderate
+C1016,FICO8,530,2025-10-05,High utilization; short history
+C1016,VantageScore4,626,2025-10-05,High utilization; short history
+C1017,FICO8,573,2025-10-05,Multiple inquiries; elevated balances
+C1017,VantageScore4,525,2025-10-05,High utilization; short history
+C1018,FICO8,637,2025-10-05,Delinquencies in past 24 months
+C1018,VantageScore4,566,2025-10-05,Low utilization; long history
+C1019,FICO8,794,2025-10-05,Short history; high utilization
+C1019,VantageScore4,572,2025-10-05,Low utilization; long history
+C1020,FICO8,509,2025-10-05,Multiple inquiries; elevated balances
+C1020,VantageScore4,679,2025-10-05,Recent inquiry; utilization moderate
+C1021,FICO8,643,2025-10-05,High utilization; short history
+C1021,VantageScore4,691,2025-10-05,Short history; high utilization
+C1022,FICO8,612,2025-10-05,Delinquencies in past 24 months
+C1022,VantageScore4,541,2025-10-05,Low utilization; long history
+C1023,FICO8,583,2025-10-05,Recent delinquency; new account
+C1023,VantageScore4,785,2025-10-05,Recent delinquency; new account
+C1024,FICO8,732,2025-10-05,Delinquencies in past 24 months
+C1024,VantageScore4,538,2025-10-05,Multiple inquiries; elevated balances
+C1025,FICO8,511,2025-10-05,Short history; high utilization
+C1025,VantageScore4,717,2025-10-05,Delinquencies in past 24 months
+C1026,FICO8,513,2025-10-05,Collections and recent delinquencies
+C1026,VantageScore4,494,2025-10-05,Delinquencies in past 24 months
+C1027,FICO8,599,2025-10-05,Low utilization; long history
+C1027,VantageScore4,617,2025-10-05,Recent inquiry; utilization moderate
+C1028,FICO8,606,2025-10-05,High utilization; short history
+C1028,VantageScore4,635,2025-10-05,Delinquencies in past 24 months
+C1029,FICO8,708,2025-10-05,Recent inquiry; utilization moderate
+C1029,VantageScore4,736,2025-10-05,Recent delinquency; new account
+C1030,FICO8,552,2025-10-05,Short history; high utilization
+C1030,VantageScore4,756,2025-10-05,High utilization; short history
+C1031,FICO8,605,2025-10-05,Delinquencies in past 24 months
+C1031,VantageScore4,764,2025-10-05,Collections and recent delinquencies
+C1032,FICO8,501,2025-10-05,Low utilization; long history
+C1032,VantageScore4,717,2025-10-05,Multiple inquiries; elevated balances
+C1033,FICO8,565,2025-10-05,Low utilization; long history
+C1033,VantageScore4,510,2025-10-05,Collections and recent delinquencies
+C1034,FICO8,619,2025-10-05,Multiple inquiries; elevated balances
+C1034,VantageScore4,674,2025-10-05,Short history; high utilization
+C1035,FICO8,588,2025-10-05,Multiple inquiries; elevated balances
+C1035,VantageScore4,503,2025-10-05,High utilization; short history
+C1036,FICO8,753,2025-10-05,Recent inquiry; utilization moderate
+C1036,VantageScore4,633,2025-10-05,Recent inquiry; utilization moderate
+C1037,FICO8,682,2025-10-05,Recent inquiry; utilization moderate
+C1037,VantageScore4,551,2025-10-05,Multiple inquiries; elevated balances
+C1038,FICO8,701,2025-10-05,Recent delinquency; new account
+C1038,VantageScore4,792,2025-10-05,Short history; high utilization
+C1039,FICO8,655,2025-10-05,Multiple inquiries; elevated balances
+C1039,VantageScore4,711,2025-10-05,Multiple inquiries; elevated balances
+C1040,FICO8,605,2025-10-05,Short history; high utilization
+C1040,VantageScore4,654,2025-10-05,Recent delinquency; new account
+C1041,FICO8,715,2025-10-05,Short history; high utilization
+C1041,VantageScore4,488,2025-10-05,High utilization; short history
+C1042,FICO8,481,2025-10-05,Collections and recent delinquencies
+C1042,VantageScore4,482,2025-10-05,Low utilization; long history
+C1043,FICO8,568,2025-10-05,Delinquencies in past 24 months
+C1043,VantageScore4,764,2025-10-05,Collections and recent delinquencies
+C1044,FICO8,681,2025-10-05,Recent inquiry; utilization moderate
+C1044,VantageScore4,519,2025-10-05,Low utilization; long history
+C1045,FICO8,707,2025-10-05,Recent inquiry; utilization moderate
+C1045,VantageScore4,660,2025-10-05,Delinquencies in past 24 months
+C1046,FICO8,787,2025-10-05,Short history; high utilization
+C1046,VantageScore4,678,2025-10-05,High utilization; short history
+C1047,FICO8,484,2025-10-05,Recent inquiry; utilization moderate
+C1047,VantageScore4,716,2025-10-05,Short history; high utilization
+C1048,FICO8,578,2025-10-05,Collections and recent delinquencies
+C1048,VantageScore4,484,2025-10-05,Recent delinquency; new account
+C1049,FICO8,490,2025-10-05,Multiple inquiries; elevated balances
+C1049,VantageScore4,663,2025-10-05,Recent delinquency; new account
+C1050,FICO8,526,2025-10-05,Multiple inquiries; elevated balances
+C1050,VantageScore4,593,2025-10-05,Recent delinquency; new account
+C1051,FICO8,732,2025-10-05,Short history; high utilization
+C1051,VantageScore4,498,2025-10-05,Multiple inquiries; elevated balances
+C1052,FICO8,732,2025-10-05,Recent delinquency; new account
+C1052,VantageScore4,483,2025-10-05,Recent delinquency; new account
+C1053,FICO8,682,2025-10-05,Recent inquiry; utilization moderate
+C1053,VantageScore4,622,2025-10-05,Collections and recent delinquencies
+C1054,FICO8,567,2025-10-05,Recent delinquency; new account
+C1054,VantageScore4,769,2025-10-05,High utilization; short history
+C1055,FICO8,513,2025-10-05,High utilization; short history
+C1055,VantageScore4,513,2025-10-05,High utilization; short history
+C1056,FICO8,612,2025-10-05,Recent delinquency; new account
+C1056,VantageScore4,747,2025-10-05,Multiple inquiries; elevated balances
+C1057,FICO8,578,2025-10-05,Low utilization; long history
+C1057,VantageScore4,752,2025-10-05,Multiple inquiries; elevated balances
+C1058,FICO8,766,2025-10-05,Collections and recent delinquencies
+C1058,VantageScore4,481,2025-10-05,Delinquencies in past 24 months
+C1059,FICO8,506,2025-10-05,Short history; high utilization
+C1059,VantageScore4,701,2025-10-05,Delinquencies in past 24 months
+C1060,FICO8,620,2025-10-05,Recent inquiry; utilization moderate
+C1060,VantageScore4,745,2025-10-05,Collections and recent delinquencies
+C1061,FICO8,733,2025-10-05,Short history; high utilization
+C1061,VantageScore4,744,2025-10-05,Low utilization; long history
+C1062,FICO8,594,2025-10-05,Low utilization; long history
+C1062,VantageScore4,622,2025-10-05,Delinquencies in past 24 months
+C1063,FICO8,752,2025-10-05,Collections and recent delinquencies
+C1063,VantageScore4,641,2025-10-05,Low utilization; long history
+C1064,FICO8,680,2025-10-05,Recent delinquency; new account
+C1064,VantageScore4,651,2025-10-05,Recent inquiry; utilization moderate
+C1065,FICO8,772,2025-10-05,Low utilization; long history
+C1065,VantageScore4,595,2025-10-05,Delinquencies in past 24 months
+C1066,FICO8,518,2025-10-05,Recent delinquency; new account
+C1066,VantageScore4,580,2025-10-05,High utilization; short history
+C1067,FICO8,648,2025-10-05,Multiple inquiries; elevated balances
+C1067,VantageScore4,512,2025-10-05,Recent inquiry; utilization moderate
+C1068,FICO8,494,2025-10-05,Collections and recent delinquencies
+C1068,VantageScore4,701,2025-10-05,Low utilization; long history
+C1069,FICO8,783,2025-10-05,Short history; high utilization
+C1069,VantageScore4,608,2025-10-05,Recent delinquency; new account
+C1070,FICO8,535,2025-10-05,Collections and recent delinquencies
+C1070,VantageScore4,602,2025-10-05,Short history; high utilization
+C1071,FICO8,507,2025-10-05,Short history; high utilization
+C1071,VantageScore4,746,2025-10-05,Recent delinquency; new account
+C1072,FICO8,517,2025-10-05,Collections and recent delinquencies
+C1072,VantageScore4,528,2025-10-05,Collections and recent delinquencies
+C1073,FICO8,776,2025-10-05,Recent inquiry; utilization moderate
+C1073,VantageScore4,523,2025-10-05,Low utilization; long history
+C1074,FICO8,497,2025-10-05,Delinquencies in past 24 months
+C1074,VantageScore4,640,2025-10-05,Recent inquiry; utilization moderate
+C1075,FICO8,545,2025-10-05,Low utilization; long history
+C1075,VantageScore4,706,2025-10-05,Low utilization; long history
+C1076,FICO8,634,2025-10-05,Delinquencies in past 24 months
+C1076,VantageScore4,513,2025-10-05,Recent inquiry; utilization moderate
+C1077,FICO8,508,2025-10-05,Low utilization; long history
+C1077,VantageScore4,630,2025-10-05,Delinquencies in past 24 months
+C1078,FICO8,685,2025-10-05,Recent inquiry; utilization moderate
+C1078,VantageScore4,796,2025-10-05,Delinquencies in past 24 months
+C1079,FICO8,599,2025-10-05,Low utilization; long history
+C1079,VantageScore4,712,2025-10-05,Delinquencies in past 24 months
+C1080,FICO8,717,2025-10-05,Delinquencies in past 24 months
+C1080,VantageScore4,797,2025-10-05,Recent inquiry; utilization moderate
+C1081,FICO8,653,2025-10-05,Low utilization; long history
+C1081,VantageScore4,712,2025-10-05,Short history; high utilization
+C1082,FICO8,780,2025-10-05,Recent delinquency; new account
+C1082,VantageScore4,535,2025-10-05,Recent inquiry; utilization moderate
+C1083,FICO8,486,2025-10-05,Recent inquiry; utilization moderate
+C1083,VantageScore4,783,2025-10-05,Recent delinquency; new account
+C1084,FICO8,773,2025-10-05,High utilization; short history
+C1084,VantageScore4,740,2025-10-05,Multiple inquiries; elevated balances
+C1085,FICO8,661,2025-10-05,Delinquencies in past 24 months
+C1085,VantageScore4,726,2025-10-05,Collections and recent delinquencies
+C1086,FICO8,575,2025-10-05,Recent delinquency; new account
+C1086,VantageScore4,550,2025-10-05,Low utilization; long history
+C1087,FICO8,510,2025-10-05,High utilization; short history
+C1087,VantageScore4,639,2025-10-05,Delinquencies in past 24 months
+C1088,FICO8,742,2025-10-05,Short history; high utilization
+C1088,VantageScore4,639,2025-10-05,High utilization; short history
+C1089,FICO8,555,2025-10-05,Collections and recent delinquencies
+C1089,VantageScore4,638,2025-10-05,Short history; high utilization
+C1090,FICO8,629,2025-10-05,Short history; high utilization
+C1090,VantageScore4,484,2025-10-05,High utilization; short history
+C1091,FICO8,509,2025-10-05,Recent delinquency; new account
+C1091,VantageScore4,739,2025-10-05,Low utilization; long history
+C1092,FICO8,696,2025-10-05,Short history; high utilization
+C1092,VantageScore4,580,2025-10-05,Recent delinquency; new account
+C1093,FICO8,583,2025-10-05,Recent inquiry; utilization moderate
+C1093,VantageScore4,654,2025-10-05,Recent delinquency; new account
+C1094,FICO8,723,2025-10-05,Collections and recent delinquencies
+C1094,VantageScore4,787,2025-10-05,Short history; high utilization
+C1095,FICO8,776,2025-10-05,Short history; high utilization
+C1095,VantageScore4,795,2025-10-05,Multiple inquiries; elevated balances
+C1096,FICO8,694,2025-10-05,Short history; high utilization
+C1096,VantageScore4,563,2025-10-05,Recent inquiry; utilization moderate
+C1097,FICO8,712,2025-10-05,Low utilization; long history
+C1097,VantageScore4,733,2025-10-05,Recent delinquency; new account
+C1098,FICO8,481,2025-10-05,Recent delinquency; new account
+C1098,VantageScore4,597,2025-10-05,Collections and recent delinquencies
+C1099,FICO8,799,2025-10-05,Recent delinquency; new account
+C1099,VantageScore4,602,2025-10-05,Collections and recent delinquencies
+C1100,FICO8,649,2025-10-05,Delinquencies in past 24 months
+C1100,VantageScore4,585,2025-10-05,Delinquencies in past 24 months
+C1101,FICO8,574,2025-10-05,Low utilization; long history
+C1101,VantageScore4,665,2025-10-05,Low utilization; long history
+C1102,FICO8,517,2025-10-05,Short history; high utilization
+C1102,VantageScore4,495,2025-10-05,Recent inquiry; utilization moderate
+C1103,FICO8,552,2025-10-05,Multiple inquiries; elevated balances
+C1103,VantageScore4,705,2025-10-05,Recent delinquency; new account
+C1104,FICO8,779,2025-10-05,Short history; high utilization
+C1104,VantageScore4,502,2025-10-05,Low utilization; long history
+C1105,FICO8,581,2025-10-05,Recent delinquency; new account
+C1105,VantageScore4,625,2025-10-05,High utilization; short history
+C1106,FICO8,592,2025-10-05,Multiple inquiries; elevated balances
+C1106,VantageScore4,569,2025-10-05,Short history; high utilization
+C1107,FICO8,763,2025-10-05,Recent delinquency; new account
+C1107,VantageScore4,571,2025-10-05,Recent delinquency; new account
+C1108,FICO8,491,2025-10-05,High utilization; short history
+C1108,VantageScore4,614,2025-10-05,Recent inquiry; utilization moderate
+C1109,FICO8,490,2025-10-05,High utilization; short history
+C1109,VantageScore4,674,2025-10-05,Recent inquiry; utilization moderate
+C1110,FICO8,653,2025-10-05,Recent delinquency; new account
+C1110,VantageScore4,636,2025-10-05,Collections and recent delinquencies
+C1111,FICO8,602,2025-10-05,Short history; high utilization
+C1111,VantageScore4,670,2025-10-05,High utilization; short history
+C1112,FICO8,749,2025-10-05,Delinquencies in past 24 months
+C1112,VantageScore4,513,2025-10-05,Recent inquiry; utilization moderate
+C1113,FICO8,553,2025-10-05,High utilization; short history
+C1113,VantageScore4,577,2025-10-05,Recent delinquency; new account
+C1114,FICO8,752,2025-10-05,Delinquencies in past 24 months
+C1114,VantageScore4,671,2025-10-05,Short history; high utilization
+C1115,FICO8,786,2025-10-05,Delinquencies in past 24 months
+C1115,VantageScore4,605,2025-10-05,Low utilization; long history
+C1116,FICO8,795,2025-10-05,Recent delinquency; new account
+C1116,VantageScore4,754,2025-10-05,Multiple inquiries; elevated balances
+C1117,FICO8,556,2025-10-05,Short history; high utilization
+C1117,VantageScore4,606,2025-10-05,Low utilization; long history
+C1118,FICO8,623,2025-10-05,High utilization; short history
+C1118,VantageScore4,740,2025-10-05,Collections and recent delinquencies
+C1119,FICO8,587,2025-10-05,Recent inquiry; utilization moderate
+C1119,VantageScore4,720,2025-10-05,Recent inquiry; utilization moderate
+C1120,FICO8,565,2025-10-05,Delinquencies in past 24 months
+C1120,VantageScore4,740,2025-10-05,Short history; high utilization
+C1121,FICO8,735,2025-10-05,Collections and recent delinquencies
+C1121,VantageScore4,571,2025-10-05,Short history; high utilization
+C1122,FICO8,671,2025-10-05,Collections and recent delinquencies
+C1122,VantageScore4,733,2025-10-05,Collections and recent delinquencies
+C1123,FICO8,617,2025-10-05,Delinquencies in past 24 months
+C1123,VantageScore4,778,2025-10-05,Low utilization; long history
+C1124,FICO8,586,2025-10-05,Recent delinquency; new account
+C1124,VantageScore4,583,2025-10-05,Collections and recent delinquencies
+C1125,FICO8,600,2025-10-05,Delinquencies in past 24 months
+C1125,VantageScore4,591,2025-10-05,Multiple inquiries; elevated balances
+C1126,FICO8,697,2025-10-05,Delinquencies in past 24 months
+C1126,VantageScore4,772,2025-10-05,High utilization; short history
+C1127,FICO8,671,2025-10-05,Multiple inquiries; elevated balances
+C1127,VantageScore4,761,2025-10-05,Recent inquiry; utilization moderate
+C1128,FICO8,548,2025-10-05,Recent inquiry; utilization moderate
+C1128,VantageScore4,631,2025-10-05,Collections and recent delinquencies
+C1129,FICO8,745,2025-10-05,Short history; high utilization
+C1129,VantageScore4,597,2025-10-05,Low utilization; long history
+C1130,FICO8,718,2025-10-05,Short history; high utilization
+C1130,VantageScore4,698,2025-10-05,Collections and recent delinquencies
+C1131,FICO8,719,2025-10-05,Delinquencies in past 24 months
+C1131,VantageScore4,689,2025-10-05,Short history; high utilization
+C1132,FICO8,734,2025-10-05,Short history; high utilization
+C1132,VantageScore4,619,2025-10-05,Delinquencies in past 24 months
+C1133,FICO8,492,2025-10-05,High utilization; short history
+C1133,VantageScore4,706,2025-10-05,Recent delinquency; new account
+C1134,FICO8,615,2025-10-05,Recent inquiry; utilization moderate
+C1134,VantageScore4,663,2025-10-05,Recent inquiry; utilization moderate
+C1135,FICO8,630,2025-10-05,Recent inquiry; utilization moderate
+C1135,VantageScore4,621,2025-10-05,Recent delinquency; new account
+C1136,FICO8,530,2025-10-05,Recent inquiry; utilization moderate
+C1136,VantageScore4,516,2025-10-05,Short history; high utilization
+C1137,FICO8,499,2025-10-05,Recent delinquency; new account
+C1137,VantageScore4,650,2025-10-05,Recent delinquency; new account
+C1138,FICO8,648,2025-10-05,Multiple inquiries; elevated balances
+C1138,VantageScore4,634,2025-10-05,Multiple inquiries; elevated balances
+C1139,FICO8,577,2025-10-05,High utilization; short history
+C1139,VantageScore4,758,2025-10-05,Multiple inquiries; elevated balances
+C1140,FICO8,484,2025-10-05,Multiple inquiries; elevated balances
+C1140,VantageScore4,624,2025-10-05,Short history; high utilization
+C1141,FICO8,686,2025-10-05,Delinquencies in past 24 months
+C1141,VantageScore4,776,2025-10-05,Low utilization; long history
+C1142,FICO8,721,2025-10-05,High utilization; short history
+C1142,VantageScore4,683,2025-10-05,Recent delinquency; new account
+C1143,FICO8,596,2025-10-05,Recent delinquency; new account
+C1143,VantageScore4,722,2025-10-05,Recent delinquency; new account
+C1144,FICO8,744,2025-10-05,Collections and recent delinquencies
+C1144,VantageScore4,716,2025-10-05,Short history; high utilization
+C1145,FICO8,523,2025-10-05,Short history; high utilization
+C1145,VantageScore4,576,2025-10-05,Delinquencies in past 24 months
+C1146,FICO8,693,2025-10-05,Recent delinquency; new account
+C1146,VantageScore4,704,2025-10-05,Collections and recent delinquencies
+C1147,FICO8,765,2025-10-05,Low utilization; long history
+C1147,VantageScore4,671,2025-10-05,High utilization; short history
+C1148,FICO8,775,2025-10-05,High utilization; short history
+C1148,VantageScore4,636,2025-10-05,Low utilization; long history
+C1149,FICO8,735,2025-10-05,Short history; high utilization
+C1149,VantageScore4,653,2025-10-05,Recent delinquency; new account
+C1150,FICO8,694,2025-10-05,Delinquencies in past 24 months
+C1150,VantageScore4,686,2025-10-05,Multiple inquiries; elevated balances
+C1151,FICO8,646,2025-10-05,Low utilization; long history
+C1151,VantageScore4,770,2025-10-05,Low utilization; long history
+C1152,FICO8,551,2025-10-05,High utilization; short history
+C1152,VantageScore4,649,2025-10-05,Delinquencies in past 24 months
+C1153,FICO8,675,2025-10-05,Recent delinquency; new account
+C1153,VantageScore4,680,2025-10-05,Recent inquiry; utilization moderate
+C1154,FICO8,753,2025-10-05,Delinquencies in past 24 months
+C1154,VantageScore4,576,2025-10-05,Collections and recent delinquencies
+C1155,FICO8,535,2025-10-05,Short history; high utilization
+C1155,VantageScore4,771,2025-10-05,Collections and recent delinquencies
+C1156,FICO8,635,2025-10-05,Recent inquiry; utilization moderate
+C1156,VantageScore4,567,2025-10-05,Recent inquiry; utilization moderate
+C1157,FICO8,763,2025-10-05,High utilization; short history
+C1157,VantageScore4,496,2025-10-05,Collections and recent delinquencies
+C1158,FICO8,493,2025-10-05,High utilization; short history
+C1158,VantageScore4,581,2025-10-05,Recent inquiry; utilization moderate
+C1159,FICO8,677,2025-10-05,Multiple inquiries; elevated balances
+C1159,VantageScore4,585,2025-10-05,Recent delinquency; new account
+C1160,FICO8,629,2025-10-05,Recent inquiry; utilization moderate
+C1160,VantageScore4,712,2025-10-05,Low utilization; long history
+C1161,FICO8,668,2025-10-05,Low utilization; long history
+C1161,VantageScore4,567,2025-10-05,Short history; high utilization
+C1162,FICO8,690,2025-10-05,Delinquencies in past 24 months
+C1162,VantageScore4,560,2025-10-05,Recent inquiry; utilization moderate
+C1163,FICO8,546,2025-10-05,Delinquencies in past 24 months
+C1163,VantageScore4,724,2025-10-05,Recent inquiry; utilization moderate
+C1164,FICO8,679,2025-10-05,Recent delinquency; new account
+C1164,VantageScore4,546,2025-10-05,Recent delinquency; new account
+C1165,FICO8,638,2025-10-05,Delinquencies in past 24 months
+C1165,VantageScore4,723,2025-10-05,High utilization; short history
+C1166,FICO8,789,2025-10-05,Multiple inquiries; elevated balances
+C1166,VantageScore4,780,2025-10-05,Recent delinquency; new account
+C1167,FICO8,737,2025-10-05,Collections and recent delinquencies
+C1167,VantageScore4,621,2025-10-05,Recent delinquency; new account
+C1168,FICO8,483,2025-10-05,High utilization; short history
+C1168,VantageScore4,708,2025-10-05,Recent inquiry; utilization moderate
+C1169,FICO8,684,2025-10-05,Recent delinquency; new account
+C1169,VantageScore4,749,2025-10-05,Short history; high utilization
+C1170,FICO8,771,2025-10-05,Collections and recent delinquencies
+C1170,VantageScore4,715,2025-10-05,Collections and recent delinquencies
+C1171,FICO8,774,2025-10-05,Low utilization; long history
+C1171,VantageScore4,526,2025-10-05,Multiple inquiries; elevated balances
+C1172,FICO8,713,2025-10-05,Short history; high utilization
+C1172,VantageScore4,632,2025-10-05,Delinquencies in past 24 months
+C1173,FICO8,793,2025-10-05,High utilization; short history
+C1173,VantageScore4,692,2025-10-05,Recent delinquency; new account
+C1174,FICO8,571,2025-10-05,Delinquencies in past 24 months
+C1174,VantageScore4,714,2025-10-05,Delinquencies in past 24 months
+C1175,FICO8,573,2025-10-05,Recent inquiry; utilization moderate
+C1175,VantageScore4,681,2025-10-05,Low utilization; long history
+C1176,FICO8,602,2025-10-05,High utilization; short history
+C1176,VantageScore4,620,2025-10-05,Multiple inquiries; elevated balances
+C1177,FICO8,514,2025-10-05,Recent delinquency; new account
+C1177,VantageScore4,732,2025-10-05,Delinquencies in past 24 months
+C1178,FICO8,763,2025-10-05,Recent inquiry; utilization moderate
+C1178,VantageScore4,668,2025-10-05,Recent inquiry; utilization moderate
+C1179,FICO8,533,2025-10-05,Short history; high utilization
+C1179,VantageScore4,689,2025-10-05,Collections and recent delinquencies
+C1180,FICO8,564,2025-10-05,Multiple inquiries; elevated balances
+C1180,VantageScore4,586,2025-10-05,Low utilization; long history
+C1181,FICO8,716,2025-10-05,Low utilization; long history
+C1181,VantageScore4,517,2025-10-05,Collections and recent delinquencies
+C1182,FICO8,675,2025-10-05,Short history; high utilization
+C1182,VantageScore4,684,2025-10-05,Recent delinquency; new account
+C1183,FICO8,683,2025-10-05,Low utilization; long history
+C1183,VantageScore4,485,2025-10-05,Multiple inquiries; elevated balances
+C1184,FICO8,538,2025-10-05,High utilization; short history
+C1184,VantageScore4,647,2025-10-05,Collections and recent delinquencies
+C1185,FICO8,728,2025-10-05,Collections and recent delinquencies
+C1185,VantageScore4,514,2025-10-05,Recent inquiry; utilization moderate
+C1186,FICO8,760,2025-10-05,Recent delinquency; new account
+C1186,VantageScore4,704,2025-10-05,High utilization; short history
+C1187,FICO8,721,2025-10-05,Multiple inquiries; elevated balances
+C1187,VantageScore4,562,2025-10-05,High utilization; short history
+C1188,FICO8,489,2025-10-05,Recent inquiry; utilization moderate
+C1188,VantageScore4,570,2025-10-05,Multiple inquiries; elevated balances
+C1189,FICO8,543,2025-10-05,Delinquencies in past 24 months
+C1189,VantageScore4,566,2025-10-05,Recent inquiry; utilization moderate
+C1190,FICO8,485,2025-10-05,Multiple inquiries; elevated balances
+C1190,VantageScore4,558,2025-10-05,Collections and recent delinquencies
+C1191,FICO8,663,2025-10-05,High utilization; short history
+C1191,VantageScore4,590,2025-10-05,Low utilization; long history
+C1192,FICO8,752,2025-10-05,Recent delinquency; new account
+C1192,VantageScore4,706,2025-10-05,Low utilization; long history
+C1193,FICO8,747,2025-10-05,Recent inquiry; utilization moderate
+C1193,VantageScore4,679,2025-10-05,Multiple inquiries; elevated balances
+C1194,FICO8,707,2025-10-05,Low utilization; long history
+C1194,VantageScore4,786,2025-10-05,Low utilization; long history
+C1195,FICO8,504,2025-10-05,Delinquencies in past 24 months
+C1195,VantageScore4,583,2025-10-05,Recent delinquency; new account
+C1196,FICO8,671,2025-10-05,Recent delinquency; new account
+C1196,VantageScore4,582,2025-10-05,Recent inquiry; utilization moderate
+C1197,FICO8,488,2025-10-05,Delinquencies in past 24 months
+C1197,VantageScore4,494,2025-10-05,Low utilization; long history
+C1198,FICO8,652,2025-10-05,Recent delinquency; new account
+C1198,VantageScore4,512,2025-10-05,Recent delinquency; new account
+C1199,FICO8,529,2025-10-05,High utilization; short history
+C1199,VantageScore4,565,2025-10-05,Low utilization; long history
+C1200,FICO8,692,2025-10-05,Recent inquiry; utilization moderate
+C1200,VantageScore4,647,2025-10-05,Short history; high utilization
